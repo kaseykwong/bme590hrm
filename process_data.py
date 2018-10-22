@@ -1,21 +1,51 @@
 from file_io import read_data
+
 import numpy as np
 import pandas as pd
 import math
 import matplotlib.pyplot as plt
-
+import logging
 class ECG_data:
 
     def __init__(self,filename_in):
-
-
-        self.time, self.voltage = read_data(filename_in)
         self.filename = filename_in
+
+        try:
+            import logging
+        except ImportError:
+            logging.error("No such file")
+            print("No Imported file")
+
+        logging.basicConfig(filename='hrm_log.txt',
+                            format='%(asctime)s %(message)s',
+                            datefmt='%m/%d/%Y %I:%M:%S %p',
+                            level=logging.DEBUG)
+
+        logging.info("%s%s", "Opened ", self.filename)
+
+        self.time, self.voltage = read_data(self.filename)
+        #self.time = []
+        #self.voltage = []
+        #self.data_in()
         self.maxV = max(self.voltage)
         self.minV = min(self.voltage)
-        self.duration = self.time[len(self.time)-1]
+        self.duration = self.time[len(self.time)-1] - self.time[0]
         self.hrm = []
         self.beattimes = []
+        self.numbeats = 0
+
+        self.peakdetect()
+
+    # def data_in(self):
+    #     try:
+    #         t , v = read_data(self.filename)
+    #             if t is False or v is False:
+    #                 logging.warning("File Not Found")
+    #                 raise
+    #                 return
+    #     else:
+    #         self.time = t
+    #         self.voltage = v
 
     def peakdetect(self):
         """
@@ -42,12 +72,10 @@ class ECG_data:
                 window.append(datapoint)
                 listpos += 1
                 if (listpos >= len(voltage)):
-                    maximum = max(window)
                     beatposition = listpos - len(window) + (window.index(max(window)))
                     peaklist.append(beatposition)
                     window = []
             else:
-                maximum = max(window)
                 beatposition = listpos - len(window) + (window.index(max(window)))
                 peaklist.append(beatposition)
                 window = []
@@ -66,6 +94,11 @@ class ECG_data:
         RR_list = measures['RR_list']
         measures['bpm'] = 60000 / np.mean(RR_list)
         peaklist = measures['peaklist']
+        for row in peaklist:
+            self.beattimes.append(float(row)/fs)
+
+        self.hrm = measures['bpm']
+        self.numbeats = len(RR_list)
         ybeat = measures['ybeat']
 
         plt.plot(voltage, alpha=0.5, color='blue', label="raw signal")
@@ -75,6 +108,11 @@ class ECG_data:
         plt.show()
         print(measures['peaklist'])
         print(measures['bpm'])
+
+    def check_data(self):
+        if self.time == [] or self.voltage == []:
+            logging.warning("Time and voltage inputs are empty.")
+            return
 
 
 
@@ -86,8 +124,9 @@ def main():
     print(x.duration)
     print(x.maxV)
     print(x.minV)
-    y = x.peakdetect()
-    print(y)
+    print(x.beattimes)
+    print(x.hrm)
+    print(x.numbeats)
 
 if __name__ == "__main__":
     main()

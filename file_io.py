@@ -1,17 +1,20 @@
 import csv
 import numpy
+import logging
+import sys
 
 def is_number(input):
     try:
-        float(input) #or numpy.isreal(float(input)) is False
-        return True
-            #raise ValueError
+        if float(input) and numpy.isreal(float(input)):
+            return True
+        else:
+            raise ValueError
     except ValueError:
-        print('Dataset contains non-real or non-numerical values')
+        logging.warning('Dataset contains non-real or non-numerical values. Interpolating data')
         return False
 
 def read_data(filename):
-    """read the data from the csv input file
+    """read the data from the csv input file. Checks to see if file exists and checks for bad data
 
     :param filename: input file name
     :return: time = time array, voltage = voltage array
@@ -21,6 +24,8 @@ def read_data(filename):
 
     except IOError:
         print("File Not Found")
+        logging.error('File Not Found')
+        #sys.exit("File Not Found")
 
     time = []
     voltage = []
@@ -47,7 +52,7 @@ def read_data(filename):
 
 
 def main():
-    [xtime, xvoltage] = read_data("./test_data/test_data1.csv")
+    [xtime, xvoltage] = read_data("./test_data/test_data0.csv")
     print(xtime)
     print(xvoltage)
 

@@ -1,0 +1,21 @@
+10/22/2018 02:57:25 PM Opened ./test_data/test_data0.csv
+10/22/2018 02:57:39 PM Opened ./test_data/test_data0.csv
+10/22/2018 02:57:39 PM File Not Found
+10/22/2018 03:06:33 PM Opened ./test_data/test_data0.csv
+10/22/2018 03:08:55 PM Opened ./test_data/test_data0.csv
+10/22/2018 03:08:55 PM File Not Found
+10/22/2018 03:41:30 PM Opened ./test_data/test_data0.csv
+10/22/2018 03:41:54 PM Opened ./test_data/test_data0.csv
+10/22/2018 03:42:33 PM Opened ./test_data/test_data0.csv
+10/22/2018 03:42:33 PM File Not Found
+10/22/2018 03:57:35 PM Opened ./test_data/test_data1.csv
+10/22/2018 03:57:35 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/22/2018 03:57:35 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/22/2018 03:57:35 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/22/2018 03:57:52 PM Opened ./test_data/test_data1.csv
+10/22/2018 03:57:52 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/22/2018 03:57:52 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/22/2018 03:57:52 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/22/2018 03:57:52 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/22/2018 03:57:53 PM update_title_pos
+10/22/2018 03:57:53 PM update_title_pos
