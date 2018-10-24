@@ -1,36 +1,36 @@
 import csv
 import numpy
 import logging
-import sys
+import json
 
 def is_number(input):
     try:
-        if float(input) and numpy.isreal(float(input)):
+        float(input)
+        if numpy.isreal(float(input)):
             return True
         else:
             raise ValueError
     except ValueError:
-        logging.warning('Dataset contains non-real or non-numerical values. Interpolating data')
+        logging.warning('Dataset contains non-real or non-numerical values. Interpolating data'+str(input))
         return False
-
 def read_data(filename):
     """read the data from the csv input file. Checks to see if file exists and checks for bad data
 
     :param filename: input file name
     :return: time = time array, voltage = voltage array
     """
-    try:
-        file = open(filename,'r')
 
-    except IOError:
-        print("File Not Found")
-        logging.error('File Not Found')
-        #sys.exit("File Not Found")
+    file = open(filename,'r')
+
+    # except IOError:
+    #     print("File Not Found")
+    #     return
+        #logging.error('File Not Found')
+
 
     time = []
     voltage = []
     temp = csv.reader(file,delimiter=',')
-    #if (len(temp[0]) == len(temp[1])):
     for row in temp:
         if (is_number(row[0])) and (is_number(row[1])):
             temptime = float(row[0])
@@ -39,22 +39,35 @@ def read_data(filename):
             time.append(temptime)
             voltage.append(tempvolt)
 
-
-
-    #timef = [float([x]) for x in time]
-    #voltagef = [float([x]) for x in voltage]
-
     return time, voltage
 
 
+def write_json(filename, info):
+    """Write data to .json file
+    :param filename: Output filename
+    :param info: Dictionary containing data to write
+    :return:
+    """
+    json_filename = filename.replace('.csv', '.json')
+    json_file = open(json_filename, "w")
+    json.dump(info, json_file)
+    json_file.close
 
+    return
 
 
 
 def main():
-    [xtime, xvoltage] = read_data("./test_data/test_data0.csv")
+    try:
+        xtime, xvoltage = read_data('./test1.csv')
+    except IOError:
+        print('main: File not Found')
+        return
+    # [xtime, xvoltage] = read_data("./test_data/test_data1.csv")
     print(xtime)
     print(xvoltage)
+
+    print(is_number('FIVE'))
 
 if __name__ == "__main__":
     main()

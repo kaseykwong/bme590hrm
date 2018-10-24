@@ -1,13 +1,20 @@
 from file_io import read_data
-
 import numpy as np
 import pandas as pd
 import math
 import matplotlib.pyplot as plt
 import logging
+import warnings
+
+
 class ECG_data:
 
-    def __init__(self,filename_in):
+    def __init__(self,filename_in = ''):
+        """
+        Initializes an instance of the ECG_data class
+        :param filename_in: name of the input file
+        """
+
         self.filename = filename_in
 
         try:
@@ -23,36 +30,43 @@ class ECG_data:
 
         logging.info("%s%s", "Opened ", self.filename)
 
+        try:
+            open(self.filename,'r')
+        except IOError:
+            logging.error(self.filename +' not found')
         self.time, self.voltage = read_data(self.filename)
-        #self.time = []
-        #self.voltage = []
-        #self.data_in()
-        self.maxV = max(self.voltage)
-        self.minV = min(self.voltage)
-        self.duration = self.time[len(self.time)-1] - self.time[0]
+
+        if len(self.time) != len(self.voltage):
+            logging.error('Time and Voltage data arrays are not the same length')
+            raise RuntimeError
+
+        if self.time == [] or self.voltage == []:
+            logging.error('Time or voltage data is empty')
+            raise RuntimeError
         self.hrm = []
         self.beattimes = []
         self.numbeats = 0
+        self.maxV = max(self.voltage)
+        self.minV = min(self.voltage)
+
+        self.duration = self.time[len(self.time) - 1] - self.time[0]
+        try:
+            if self.duration < 5:
+                raise RuntimeWarning
+            #print('Duration less than 5 seconds, Accuracy may be affected')
+        except RuntimeWarning:
+            logging.error('Duration is less than 5 seconds, calculation accuracy may be affected.')
 
         self.peakdetect()
 
-    # def data_in(self):
-    #     try:
-    #         t , v = read_data(self.filename)
-    #             if t is False or v is False:
-    #                 logging.warning("File Not Found")
-    #                 raise
-    #                 return
-    #     else:
-    #         self.time = t
-    #         self.voltage = v
 
     def peakdetect(self):
-        """
 
-        :return: array of peak locations
-        """
-        measures = {}
+
+        if self.time == [] or self.voltage == []:
+            logging.warning("Time and/or Voltage of " + self.filename +" is empty")
+            return
+
         voltage = pd.Series(data = self.voltage)
         fs = 1/(self.time[1] - self.time[0])
         hrw = 0.5
@@ -80,45 +94,66 @@ class ECG_data:
                 peaklist.append(beatposition)
                 window = []
                 listpos += 1
-        measures['peaklist'] = peaklist
-        measures['ybeat'] = [voltage[x] for x in peaklist]
+
+        ybeat = self.beat_voltage(peaklist,voltage)
+        RR_list = self.find_RR(peaklist,fs)
+        self.calc_bpm(RR_list)
+        self.find_beat_time(peaklist,fs)
+
+        # plt.plot(voltage, alpha=0.5, color='blue', label="raw signal")
+        # plt.plot(mov_avg, color ='green', label="moving average")
+        # plt.scatter(peaklist, ybeat, color='red', label="average: %.1f BPM" %self.hrm)
+        # plt.legend(loc=4, framealpha=0.6)
+        # plt.show()
+        #print(peaklist)
+        #print(self.hrm)
+
+    def beat_voltage(self,peaklist,voltage):
+        ybeat = [voltage[x] for x in peaklist]
+        return ybeat
+
+    def find_RR(self,peaklist,fs):
         RR_list = []
-        peaklist = measures['peaklist']
         cnt = 0
         while (cnt < (len(peaklist) - 1)):
             RR_interval = (peaklist[cnt + 1] - peaklist[cnt])
             ms_dist = ((RR_interval / fs) * 1000.0)
             RR_list.append(ms_dist)
             cnt += 1
-        measures['RR_list'] = RR_list
-        RR_list = measures['RR_list']
-        measures['bpm'] = 60000 / np.mean(RR_list)
-        peaklist = measures['peaklist']
+
+        return RR_list
+
+    def calc_bpm(self,RR_list):
+        self.hrm = 60000 / np.mean(RR_list)
+        self.numbeats = len(RR_list)
+        return self.hrm, self.numbeats
+
+
+    def find_beat_time(self,peaklist,fs):
+        beats = []
         for row in peaklist:
             self.beattimes.append(float(row)/fs)
+            beats.append(float(row)/fs)
+        return beats
 
-        self.hrm = measures['bpm']
-        self.numbeats = len(RR_list)
-        ybeat = measures['ybeat']
 
-        plt.plot(voltage, alpha=0.5, color='blue', label="raw signal")
-        plt.plot(mov_avg, color ='green', label="moving average")
-        plt.scatter(peaklist, ybeat, color='red', label="average: %.1f BPM" %measures['bpm'])
-        plt.legend(loc=4, framealpha=0.6)
-        plt.show()
-        print(measures['peaklist'])
-        print(measures['bpm'])
 
-    def check_data(self):
-        if self.time == [] or self.voltage == []:
-            logging.warning("Time and voltage inputs are empty.")
-            return
+
+
 
 
 
 
 def main():
-    x = ECG_data('./test_data/test_data1.csv')
+    try:
+        x = ECG_data('sine.csv')
+    except IOError:
+        print('main: File not Found')
+        return
+    except RuntimeError:
+        print('Error in data found. Refer to log')
+        return
+
     print(x.time)
     print(x.voltage)
     print(x.duration)

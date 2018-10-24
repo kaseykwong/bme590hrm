@@ -19,3 +19,356 @@
 10/22/2018 03:57:52 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
 10/22/2018 03:57:53 PM update_title_pos
 10/22/2018 03:57:53 PM update_title_pos
+10/22/2018 09:50:20 PM Opened ./test_data/test_data1.csv
+10/22/2018 09:50:20 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/22/2018 09:50:20 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/22/2018 09:50:20 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/22/2018 09:50:21 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/22/2018 09:50:21 PM update_title_pos
+10/22/2018 09:50:21 PM update_title_pos
+10/22/2018 09:56:02 PM Opened ./test_data/test_data1.csv
+10/22/2018 09:56:02 PM Dataset contains non-real or non-numerical values. Interpolating data0
+10/22/2018 09:56:02 PM Dataset contains non-real or non-numerical values. Interpolating data0
+10/22/2018 09:56:02 PM Dataset contains non-real or non-numerical values. Interpolating data0
+10/22/2018 09:56:03 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/22/2018 09:56:03 PM update_title_pos
+10/22/2018 09:56:03 PM update_title_pos
+10/22/2018 09:58:55 PM Opened ./test_data/test_data0.csv
+10/22/2018 10:00:57 PM Opened ./test_data/test_data0.csv
+10/22/2018 10:01:54 PM Opened ./test_data/test_data0.csv
+10/22/2018 10:02:22 PM Opened ./test_data/test_data0.csv
+10/22/2018 10:02:22 PM File Not Found
+10/22/2018 10:03:29 PM Opened ./test_data/test_data0.csv
+10/22/2018 10:03:46 PM Opened ./test_data/test_data0.csv
+10/22/2018 10:03:46 PM ./test_data/test_data0.csv not found
+10/23/2018 12:37:30 PM Opened ./test_data/test_data0.csv
+10/23/2018 12:38:19 PM Opened ./test_data/test_data0.csv
+10/23/2018 12:39:03 PM Opened ./test_data/test_data0.csv
+10/23/2018 12:40:29 PM Opened ./test_data/test_data0.csv
+10/23/2018 12:41:10 PM Opened ./test_data/test_data0.csv
+10/23/2018 12:41:10 PM ./test_data/test_data0.csv not found
+10/23/2018 12:41:53 PM Opened ./test_data/test_data0.csv
+10/23/2018 12:41:53 PM ./test_data/test_data0.csv not found
+10/23/2018 12:43:36 PM Opened .test_data/test_data0.csv
+10/23/2018 12:43:36 PM .test_data/test_data0.csv not found
+10/23/2018 01:02:24 PM Opened .test_data/test_data1.csv
+10/23/2018 01:02:24 PM .test_data/test_data1.csv not found
+10/23/2018 01:02:45 PM Opened .test_data/test_data1.csv
+10/23/2018 01:02:45 PM .test_data/test_data1.csv not found
+10/23/2018 01:03:16 PM Opened ./test_data/test_data1.csv
+10/23/2018 01:03:16 PM Dataset contains non-real or non-numerical values. Interpolating data0
+10/23/2018 01:03:16 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 01:03:16 PM update_title_pos
+10/23/2018 01:03:16 PM update_title_pos
+10/23/2018 01:03:51 PM Opened ./test_data/test_data1.csv
+10/23/2018 01:03:51 PM Dataset contains non-real or non-numerical values. Interpolating data0.0
+10/23/2018 01:03:52 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 01:03:52 PM update_title_pos
+10/23/2018 01:03:52 PM update_title_pos
+10/23/2018 01:07:28 PM Opened ./test_data/test_data1.csv
+10/23/2018 01:07:29 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 01:07:29 PM update_title_pos
+10/23/2018 01:07:29 PM update_title_pos
+10/23/2018 02:16:30 PM Opened None
+10/23/2018 02:18:24 PM Opened None
+10/23/2018 02:18:57 PM Opened None
+10/23/2018 02:22:50 PM Opened None
+10/23/2018 02:23:39 PM Opened None
+10/23/2018 02:24:45 PM Opened None
+10/23/2018 02:32:41 PM Opened 
+10/23/2018 02:32:41 PM  not found
+10/23/2018 02:33:13 PM Opened None
+10/23/2018 02:38:32 PM Opened ./test_data/test_data1.csv
+10/23/2018 02:38:32 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 02:38:32 PM update_title_pos
+10/23/2018 02:38:32 PM update_title_pos
+10/23/2018 02:45:27 PM Opened test1.csv
+10/23/2018 02:45:27 PM Time or voltage data is empty
+10/23/2018 03:03:51 PM Opened test2.csv
+10/23/2018 03:09:08 PM Opened test2.csv
+10/23/2018 03:09:08 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:09:08 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:09:08 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:09:08 PM update_title_pos
+10/23/2018 03:09:08 PM update_title_pos
+10/23/2018 03:11:11 PM Opened test2.csv
+10/23/2018 03:11:11 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:11:11 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:11:11 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:11:11 PM update_title_pos
+10/23/2018 03:11:11 PM update_title_pos
+10/23/2018 03:31:06 PM Opened ./test_data/test_data3.csv
+10/23/2018 03:31:07 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:31:07 PM update_title_pos
+10/23/2018 03:31:07 PM update_title_pos
+10/23/2018 03:31:21 PM Opened ./test_data/test_data30.csv
+10/23/2018 03:31:21 PM Dataset contains non-real or non-numerical values. Interpolating databad data
+10/23/2018 03:31:21 PM Dataset contains non-real or non-numerical values. Interpolating databad data
+10/23/2018 03:31:21 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:31:21 PM update_title_pos
+10/23/2018 03:31:21 PM update_title_pos
+10/23/2018 03:31:36 PM Opened ./test_data/test_data32.csv
+10/23/2018 03:31:36 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:31:36 PM update_title_pos
+10/23/2018 03:31:36 PM update_title_pos
+10/23/2018 03:31:53 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:31:53 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:31:53 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:31:53 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:31:53 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:31:53 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:31:53 PM update_title_pos
+10/23/2018 03:31:54 PM update_title_pos
+10/23/2018 03:42:27 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:42:27 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:42:27 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:42:27 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:42:27 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:14 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:43:14 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:14 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:14 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:14 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:54 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:43:54 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:54 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:54 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:54 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:10 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:44:10 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:10 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:10 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:10 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:30 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:44:30 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:30 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:30 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:30 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:51 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:44:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:51 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:44:51 PM update_title_pos
+10/23/2018 03:44:51 PM update_title_pos
+10/23/2018 04:01:09 PM Opened 
+10/23/2018 04:01:09 PM  not found
+10/23/2018 04:08:04 PM Opened test2.csv
+10/23/2018 04:08:04 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 04:08:04 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 04:08:04 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 04:08:05 PM update_title_pos
+10/23/2018 04:08:05 PM update_title_pos
+10/23/2018 04:09:47 PM Opened test2.csv
+10/23/2018 04:09:47 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 04:09:47 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 04:09:47 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 04:09:47 PM update_title_pos
+10/23/2018 04:09:47 PM update_title_pos
+10/23/2018 06:45:37 PM Opened test2.csv
+10/23/2018 06:45:37 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 06:45:37 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 06:45:37 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 06:45:37 PM update_title_pos
+10/23/2018 06:45:38 PM update_title_pos
+10/24/2018 10:30:43 AM Opened test2.csv
+10/24/2018 10:30:43 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:30:43 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:30:44 AM update_title_pos
+10/24/2018 10:30:44 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:30:46 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:31:10 AM Opened test2.csv
+10/24/2018 10:31:10 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:31:10 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:31:10 AM update_title_pos
+10/24/2018 10:31:10 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:31:12 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:33:21 AM Opened test2.csv
+10/24/2018 10:33:21 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:33:21 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:33:21 AM update_title_pos
+10/24/2018 10:33:21 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:33:23 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:36:12 AM Opened test2.csv
+10/24/2018 10:36:12 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:36:12 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:36:13 AM update_title_pos
+10/24/2018 10:36:13 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:36:15 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:36:42 AM Opened test2.csv
+10/24/2018 10:36:42 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:37:44 AM Opened test2.csv
+10/24/2018 10:37:44 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:37:44 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:37:45 AM update_title_pos
+10/24/2018 10:37:45 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:37:46 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:38:22 AM Opened test2.csv
+10/24/2018 10:38:22 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:38:22 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:38:22 AM update_title_pos
+10/24/2018 10:38:22 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:38:26 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:39:28 AM Opened test2.csv
+10/24/2018 10:39:28 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:39:28 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:39:28 AM update_title_pos
+10/24/2018 10:39:28 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:39:30 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:42:35 AM Opened test2.csv
+10/24/2018 10:42:35 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:42:35 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:42:35 AM update_title_pos
+10/24/2018 10:42:35 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:42:36 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:51:10 AM Opened test2.csv
+10/24/2018 10:51:10 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:51:10 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:51:10 AM update_title_pos
+10/24/2018 10:51:10 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:51:12 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:53:39 AM Opened test2.csv
+10/24/2018 10:53:40 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:53:40 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:53:40 AM update_title_pos
+10/24/2018 10:53:40 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:53:41 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:55:56 AM Opened test2.csv
+10/24/2018 10:55:56 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:55:56 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:56:04 AM Opened test2.csv
+10/24/2018 10:56:04 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:56:04 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:56:04 AM update_title_pos
+10/24/2018 10:56:04 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:56:06 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:07:30 AM Opened sine.csv
+10/24/2018 11:07:30 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:07:30 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:07:30 AM update_title_pos
+10/24/2018 11:07:30 AM update_title_pos
+10/24/2018 11:11:12 AM Opened test2.csv
+10/24/2018 11:11:12 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:11:12 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:11:12 AM update_title_pos
+10/24/2018 11:11:12 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:11:15 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:11:15 AM Opened sine.csv
+10/24/2018 11:11:15 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:11:15 AM update_title_pos
+10/24/2018 11:14:16 AM Opened test2.csv
+10/24/2018 11:14:16 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:14:16 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:14:16 AM update_title_pos
+10/24/2018 11:14:16 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:14:18 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:14:18 AM Opened sine.csv
+10/24/2018 11:14:18 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:14:18 AM update_title_pos
+10/24/2018 11:14:18 AM Opened test0.csv
+10/24/2018 11:14:18 AM test0.csv not found
+10/24/2018 11:15:43 AM Opened test2.csv
+10/24/2018 11:15:43 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:15:43 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:15:43 AM update_title_pos
+10/24/2018 11:15:43 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:15:46 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:15:46 AM Opened sine.csv
+10/24/2018 11:15:46 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:15:46 AM update_title_pos
+10/24/2018 11:15:46 AM Opened test0.csv
+10/24/2018 11:15:46 AM test0.csv not found
+10/24/2018 11:18:11 AM Opened test2.csv
+10/24/2018 11:18:11 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:18:11 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:18:11 AM update_title_pos
+10/24/2018 11:18:11 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:18:13 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:18:13 AM Opened sine.csv
+10/24/2018 11:18:13 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:18:13 AM update_title_pos
+10/24/2018 11:18:14 AM Opened sine.csv
+10/24/2018 11:18:14 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:18:14 AM update_title_pos
+10/24/2018 11:19:16 AM Opened test2.csv
+10/24/2018 11:19:16 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:19:16 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:19:16 AM update_title_pos
+10/24/2018 11:19:16 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:19:18 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:19:18 AM Opened sine.csv
+10/24/2018 11:19:18 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:19:18 AM update_title_pos
+10/24/2018 11:19:20 AM Opened sine.csv
+10/24/2018 11:19:20 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:19:20 AM update_title_pos
+10/24/2018 11:19:22 AM Opened test0.csv
+10/24/2018 11:19:22 AM test0.csv not found
+10/24/2018 11:20:21 AM Opened test2.csv
+10/24/2018 11:20:21 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:20:21 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:20:21 AM update_title_pos
+10/24/2018 11:20:21 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:20:23 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:20:23 AM Opened sine.csv
+10/24/2018 11:20:23 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:20:23 AM Opened sine.csv
+10/24/2018 11:20:23 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:20:23 AM Opened test0.csv
+10/24/2018 11:20:23 AM test0.csv not found
+10/24/2018 11:21:38 AM Opened test2.csv
+10/24/2018 11:21:38 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:21:38 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:21:38 AM update_title_pos
+10/24/2018 11:21:38 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:21:40 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:21:40 AM Opened sine.csv
+10/24/2018 11:21:40 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:21:40 AM update_title_pos
+10/24/2018 11:21:41 AM Opened test0.csv
+10/24/2018 11:21:41 AM test0.csv not found
+10/24/2018 11:34:03 AM Opened test2.csv
+10/24/2018 11:34:03 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:34:03 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:34:03 AM update_title_pos
+10/24/2018 11:34:03 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:34:05 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:34:05 AM Opened sine.csv
+10/24/2018 11:34:05 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:34:05 AM update_title_pos
+10/24/2018 11:34:06 AM Opened sine.csv
+10/24/2018 11:34:06 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:34:06 AM update_title_pos
+10/24/2018 11:34:09 AM Opened test0.csv
+10/24/2018 11:34:09 AM test0.csv not found
+10/24/2018 11:50:24 AM Opened test2.csv
+10/24/2018 11:50:24 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:50:24 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:50:24 AM update_title_pos
+10/24/2018 11:50:24 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:50:27 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:50:27 AM Opened sine.csv
+10/24/2018 11:50:27 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:50:27 AM update_title_pos
+10/24/2018 11:50:28 AM Opened test0.csv
+10/24/2018 11:50:28 AM test0.csv not found
+10/24/2018 11:50:44 AM Opened test2.csv
+10/24/2018 11:50:44 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:50:44 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:50:44 AM update_title_pos
+10/24/2018 11:50:44 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:50:47 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:50:47 AM Opened sine.csv
+10/24/2018 11:50:47 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:50:47 AM update_title_pos
+10/24/2018 11:50:47 AM Opened test0.csv
+10/24/2018 11:50:47 AM test0.csv not found
+10/24/2018 01:30:51 PM Opened test2.csv
+10/24/2018 01:30:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 01:30:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 01:30:51 PM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 01:30:51 PM Opened sine.csv
+10/24/2018 01:30:51 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 01:30:51 PM Opened test0.csv
+10/24/2018 01:30:51 PM test0.csv not found
