@@ -19,3 +19,1422 @@
 10/22/2018 03:57:52 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
 10/22/2018 03:57:53 PM update_title_pos
 10/22/2018 03:57:53 PM update_title_pos
+10/22/2018 09:50:20 PM Opened ./test_data/test_data1.csv
+10/22/2018 09:50:20 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/22/2018 09:50:20 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/22/2018 09:50:20 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/22/2018 09:50:21 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/22/2018 09:50:21 PM update_title_pos
+10/22/2018 09:50:21 PM update_title_pos
+10/22/2018 09:56:02 PM Opened ./test_data/test_data1.csv
+10/22/2018 09:56:02 PM Dataset contains non-real or non-numerical values. Interpolating data0
+10/22/2018 09:56:02 PM Dataset contains non-real or non-numerical values. Interpolating data0
+10/22/2018 09:56:02 PM Dataset contains non-real or non-numerical values. Interpolating data0
+10/22/2018 09:56:03 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/22/2018 09:56:03 PM update_title_pos
+10/22/2018 09:56:03 PM update_title_pos
+10/22/2018 09:58:55 PM Opened ./test_data/test_data0.csv
+10/22/2018 10:00:57 PM Opened ./test_data/test_data0.csv
+10/22/2018 10:01:54 PM Opened ./test_data/test_data0.csv
+10/22/2018 10:02:22 PM Opened ./test_data/test_data0.csv
+10/22/2018 10:02:22 PM File Not Found
+10/22/2018 10:03:29 PM Opened ./test_data/test_data0.csv
+10/22/2018 10:03:46 PM Opened ./test_data/test_data0.csv
+10/22/2018 10:03:46 PM ./test_data/test_data0.csv not found
+10/23/2018 12:37:30 PM Opened ./test_data/test_data0.csv
+10/23/2018 12:38:19 PM Opened ./test_data/test_data0.csv
+10/23/2018 12:39:03 PM Opened ./test_data/test_data0.csv
+10/23/2018 12:40:29 PM Opened ./test_data/test_data0.csv
+10/23/2018 12:41:10 PM Opened ./test_data/test_data0.csv
+10/23/2018 12:41:10 PM ./test_data/test_data0.csv not found
+10/23/2018 12:41:53 PM Opened ./test_data/test_data0.csv
+10/23/2018 12:41:53 PM ./test_data/test_data0.csv not found
+10/23/2018 12:43:36 PM Opened .test_data/test_data0.csv
+10/23/2018 12:43:36 PM .test_data/test_data0.csv not found
+10/23/2018 01:02:24 PM Opened .test_data/test_data1.csv
+10/23/2018 01:02:24 PM .test_data/test_data1.csv not found
+10/23/2018 01:02:45 PM Opened .test_data/test_data1.csv
+10/23/2018 01:02:45 PM .test_data/test_data1.csv not found
+10/23/2018 01:03:16 PM Opened ./test_data/test_data1.csv
+10/23/2018 01:03:16 PM Dataset contains non-real or non-numerical values. Interpolating data0
+10/23/2018 01:03:16 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 01:03:16 PM update_title_pos
+10/23/2018 01:03:16 PM update_title_pos
+10/23/2018 01:03:51 PM Opened ./test_data/test_data1.csv
+10/23/2018 01:03:51 PM Dataset contains non-real or non-numerical values. Interpolating data0.0
+10/23/2018 01:03:52 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 01:03:52 PM update_title_pos
+10/23/2018 01:03:52 PM update_title_pos
+10/23/2018 01:07:28 PM Opened ./test_data/test_data1.csv
+10/23/2018 01:07:29 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 01:07:29 PM update_title_pos
+10/23/2018 01:07:29 PM update_title_pos
+10/23/2018 02:16:30 PM Opened None
+10/23/2018 02:18:24 PM Opened None
+10/23/2018 02:18:57 PM Opened None
+10/23/2018 02:22:50 PM Opened None
+10/23/2018 02:23:39 PM Opened None
+10/23/2018 02:24:45 PM Opened None
+10/23/2018 02:32:41 PM Opened 
+10/23/2018 02:32:41 PM  not found
+10/23/2018 02:33:13 PM Opened None
+10/23/2018 02:38:32 PM Opened ./test_data/test_data1.csv
+10/23/2018 02:38:32 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 02:38:32 PM update_title_pos
+10/23/2018 02:38:32 PM update_title_pos
+10/23/2018 02:45:27 PM Opened test1.csv
+10/23/2018 02:45:27 PM Time or voltage data is empty
+10/23/2018 03:03:51 PM Opened test2.csv
+10/23/2018 03:09:08 PM Opened test2.csv
+10/23/2018 03:09:08 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:09:08 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:09:08 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:09:08 PM update_title_pos
+10/23/2018 03:09:08 PM update_title_pos
+10/23/2018 03:11:11 PM Opened test2.csv
+10/23/2018 03:11:11 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:11:11 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:11:11 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:11:11 PM update_title_pos
+10/23/2018 03:11:11 PM update_title_pos
+10/23/2018 03:31:06 PM Opened ./test_data/test_data3.csv
+10/23/2018 03:31:07 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:31:07 PM update_title_pos
+10/23/2018 03:31:07 PM update_title_pos
+10/23/2018 03:31:21 PM Opened ./test_data/test_data30.csv
+10/23/2018 03:31:21 PM Dataset contains non-real or non-numerical values. Interpolating databad data
+10/23/2018 03:31:21 PM Dataset contains non-real or non-numerical values. Interpolating databad data
+10/23/2018 03:31:21 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:31:21 PM update_title_pos
+10/23/2018 03:31:21 PM update_title_pos
+10/23/2018 03:31:36 PM Opened ./test_data/test_data32.csv
+10/23/2018 03:31:36 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:31:36 PM update_title_pos
+10/23/2018 03:31:36 PM update_title_pos
+10/23/2018 03:31:53 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:31:53 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:31:53 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:31:53 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:31:53 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:31:53 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:31:53 PM update_title_pos
+10/23/2018 03:31:54 PM update_title_pos
+10/23/2018 03:42:27 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:42:27 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:42:27 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:42:27 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:42:27 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:14 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:43:14 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:14 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:14 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:14 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:54 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:43:54 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:54 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:54 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:43:54 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:10 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:44:10 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:10 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:10 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:10 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:30 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:44:30 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:30 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:30 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:30 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:51 PM Opened ./test_data/test_data31.csv
+10/23/2018 03:44:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 03:44:51 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 03:44:51 PM update_title_pos
+10/23/2018 03:44:51 PM update_title_pos
+10/23/2018 04:01:09 PM Opened 
+10/23/2018 04:01:09 PM  not found
+10/23/2018 04:08:04 PM Opened test2.csv
+10/23/2018 04:08:04 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 04:08:04 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 04:08:04 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 04:08:05 PM update_title_pos
+10/23/2018 04:08:05 PM update_title_pos
+10/23/2018 04:09:47 PM Opened test2.csv
+10/23/2018 04:09:47 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 04:09:47 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 04:09:47 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 04:09:47 PM update_title_pos
+10/23/2018 04:09:47 PM update_title_pos
+10/23/2018 06:45:37 PM Opened test2.csv
+10/23/2018 06:45:37 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 06:45:37 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/23/2018 06:45:37 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/23/2018 06:45:37 PM update_title_pos
+10/23/2018 06:45:38 PM update_title_pos
+10/24/2018 10:30:43 AM Opened test2.csv
+10/24/2018 10:30:43 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:30:43 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:30:44 AM update_title_pos
+10/24/2018 10:30:44 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:30:46 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:31:10 AM Opened test2.csv
+10/24/2018 10:31:10 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:31:10 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:31:10 AM update_title_pos
+10/24/2018 10:31:10 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:31:12 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:33:21 AM Opened test2.csv
+10/24/2018 10:33:21 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:33:21 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:33:21 AM update_title_pos
+10/24/2018 10:33:21 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:33:23 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:36:12 AM Opened test2.csv
+10/24/2018 10:36:12 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:36:12 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:36:13 AM update_title_pos
+10/24/2018 10:36:13 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:36:15 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:36:42 AM Opened test2.csv
+10/24/2018 10:36:42 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:37:44 AM Opened test2.csv
+10/24/2018 10:37:44 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:37:44 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:37:45 AM update_title_pos
+10/24/2018 10:37:45 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:37:46 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:38:22 AM Opened test2.csv
+10/24/2018 10:38:22 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:38:22 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:38:22 AM update_title_pos
+10/24/2018 10:38:22 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:38:26 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:39:28 AM Opened test2.csv
+10/24/2018 10:39:28 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:39:28 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:39:28 AM update_title_pos
+10/24/2018 10:39:28 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:39:30 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:42:35 AM Opened test2.csv
+10/24/2018 10:42:35 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:42:35 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:42:35 AM update_title_pos
+10/24/2018 10:42:35 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:42:36 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:51:10 AM Opened test2.csv
+10/24/2018 10:51:10 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:51:10 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:51:10 AM update_title_pos
+10/24/2018 10:51:10 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:51:12 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:53:39 AM Opened test2.csv
+10/24/2018 10:53:40 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:53:40 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:53:40 AM update_title_pos
+10/24/2018 10:53:40 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:53:41 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 10:55:56 AM Opened test2.csv
+10/24/2018 10:55:56 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:55:56 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:56:04 AM Opened test2.csv
+10/24/2018 10:56:04 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:56:04 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 10:56:04 AM update_title_pos
+10/24/2018 10:56:04 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 10:56:06 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:07:30 AM Opened sine.csv
+10/24/2018 11:07:30 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:07:30 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:07:30 AM update_title_pos
+10/24/2018 11:07:30 AM update_title_pos
+10/24/2018 11:11:12 AM Opened test2.csv
+10/24/2018 11:11:12 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:11:12 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:11:12 AM update_title_pos
+10/24/2018 11:11:12 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:11:15 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:11:15 AM Opened sine.csv
+10/24/2018 11:11:15 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:11:15 AM update_title_pos
+10/24/2018 11:14:16 AM Opened test2.csv
+10/24/2018 11:14:16 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:14:16 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:14:16 AM update_title_pos
+10/24/2018 11:14:16 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:14:18 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:14:18 AM Opened sine.csv
+10/24/2018 11:14:18 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:14:18 AM update_title_pos
+10/24/2018 11:14:18 AM Opened test0.csv
+10/24/2018 11:14:18 AM test0.csv not found
+10/24/2018 11:15:43 AM Opened test2.csv
+10/24/2018 11:15:43 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:15:43 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:15:43 AM update_title_pos
+10/24/2018 11:15:43 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:15:46 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:15:46 AM Opened sine.csv
+10/24/2018 11:15:46 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:15:46 AM update_title_pos
+10/24/2018 11:15:46 AM Opened test0.csv
+10/24/2018 11:15:46 AM test0.csv not found
+10/24/2018 11:18:11 AM Opened test2.csv
+10/24/2018 11:18:11 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:18:11 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:18:11 AM update_title_pos
+10/24/2018 11:18:11 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:18:13 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:18:13 AM Opened sine.csv
+10/24/2018 11:18:13 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:18:13 AM update_title_pos
+10/24/2018 11:18:14 AM Opened sine.csv
+10/24/2018 11:18:14 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:18:14 AM update_title_pos
+10/24/2018 11:19:16 AM Opened test2.csv
+10/24/2018 11:19:16 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:19:16 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:19:16 AM update_title_pos
+10/24/2018 11:19:16 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:19:18 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:19:18 AM Opened sine.csv
+10/24/2018 11:19:18 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:19:18 AM update_title_pos
+10/24/2018 11:19:20 AM Opened sine.csv
+10/24/2018 11:19:20 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:19:20 AM update_title_pos
+10/24/2018 11:19:22 AM Opened test0.csv
+10/24/2018 11:19:22 AM test0.csv not found
+10/24/2018 11:20:21 AM Opened test2.csv
+10/24/2018 11:20:21 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:20:21 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:20:21 AM update_title_pos
+10/24/2018 11:20:21 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:20:23 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:20:23 AM Opened sine.csv
+10/24/2018 11:20:23 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:20:23 AM Opened sine.csv
+10/24/2018 11:20:23 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:20:23 AM Opened test0.csv
+10/24/2018 11:20:23 AM test0.csv not found
+10/24/2018 11:21:38 AM Opened test2.csv
+10/24/2018 11:21:38 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:21:38 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:21:38 AM update_title_pos
+10/24/2018 11:21:38 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:21:40 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:21:40 AM Opened sine.csv
+10/24/2018 11:21:40 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:21:40 AM update_title_pos
+10/24/2018 11:21:41 AM Opened test0.csv
+10/24/2018 11:21:41 AM test0.csv not found
+10/24/2018 11:34:03 AM Opened test2.csv
+10/24/2018 11:34:03 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:34:03 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:34:03 AM update_title_pos
+10/24/2018 11:34:03 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:34:05 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:34:05 AM Opened sine.csv
+10/24/2018 11:34:05 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:34:05 AM update_title_pos
+10/24/2018 11:34:06 AM Opened sine.csv
+10/24/2018 11:34:06 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:34:06 AM update_title_pos
+10/24/2018 11:34:09 AM Opened test0.csv
+10/24/2018 11:34:09 AM test0.csv not found
+10/24/2018 11:50:24 AM Opened test2.csv
+10/24/2018 11:50:24 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:50:24 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:50:24 AM update_title_pos
+10/24/2018 11:50:24 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:50:27 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:50:27 AM Opened sine.csv
+10/24/2018 11:50:27 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:50:27 AM update_title_pos
+10/24/2018 11:50:28 AM Opened test0.csv
+10/24/2018 11:50:28 AM test0.csv not found
+10/24/2018 11:50:44 AM Opened test2.csv
+10/24/2018 11:50:44 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:50:44 AM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 11:50:44 AM update_title_pos
+10/24/2018 11:50:44 AM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/24/2018 11:50:47 AM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 11:50:47 AM Opened sine.csv
+10/24/2018 11:50:47 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 11:50:47 AM update_title_pos
+10/24/2018 11:50:47 AM Opened test0.csv
+10/24/2018 11:50:47 AM test0.csv not found
+10/24/2018 01:30:51 PM Opened test2.csv
+10/24/2018 01:30:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 01:30:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 01:30:51 PM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 01:30:51 PM Opened sine.csv
+10/24/2018 01:30:51 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 01:30:51 PM Opened test0.csv
+10/24/2018 01:30:51 PM test0.csv not found
+10/24/2018 02:01:04 PM Opened test2.csv
+10/24/2018 02:01:04 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 02:01:04 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 02:01:04 PM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 02:01:04 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 02:01:04 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 02:01:04 PM Opened sine.csv
+10/24/2018 02:01:04 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 02:01:04 PM Opened test0.csv
+10/24/2018 02:01:04 PM test0.csv not found
+10/24/2018 02:02:33 PM Opened test2.csv
+10/24/2018 02:02:33 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 02:02:33 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 02:02:33 PM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 02:02:33 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 02:02:33 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 02:02:33 PM Opened sine.csv
+10/24/2018 02:02:33 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 02:02:33 PM Opened test0.csv
+10/24/2018 02:02:33 PM test0.csv not found
+10/24/2018 02:05:08 PM Opened test2.csv
+10/24/2018 02:05:08 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 02:05:08 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 02:05:08 PM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 02:05:08 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 02:05:08 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 02:05:08 PM Opened sine.csv
+10/24/2018 02:05:08 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 02:05:08 PM Opened test0.csv
+10/24/2018 02:05:08 PM test0.csv not found
+10/24/2018 02:09:55 PM Opened sine.csv
+10/24/2018 02:09:55 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 02:10:10 PM Opened sine.csv
+10/24/2018 02:10:10 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 02:10:10 PM Completed sine.csv
+10/24/2018 02:17:59 PM Opened ./test_data/test_data1.csv
+10/24/2018 02:17:59 PM Heart Rate successfully calculated.
+10/24/2018 02:17:59 PM Completed ./test_data/test_data1.csv
+10/24/2018 02:20:26 PM Opened ./test_data/test_data1.csv
+10/24/2018 02:20:26 PM ECG Voltage extremes found.
+10/24/2018 02:20:26 PM Heart Rate successfully calculated.
+10/24/2018 02:20:26 PM Number of beats counted.
+10/24/2018 02:20:26 PM Heart beat times recorded.
+10/24/2018 02:20:26 PM Completed ./test_data/test_data1.csv
+10/24/2018 02:25:58 PM Opened test0.csv
+10/24/2018 02:25:58 PM test0.csv not found
+10/24/2018 06:03:55 PM Opened test1.csv
+10/24/2018 06:03:55 PM Time or voltage data is empty
+10/24/2018 06:04:03 PM Opened test1.csv
+10/24/2018 06:04:03 PM Time or voltage data is empty
+10/24/2018 06:11:45 PM Opened test2.csv
+10/24/2018 06:11:46 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 06:11:46 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 06:11:46 PM ECG Voltage extremes found.
+10/24/2018 06:11:46 PM Heart Rate successfully calculated.
+10/24/2018 06:11:46 PM Number of beats counted.
+10/24/2018 06:11:46 PM Heart beat times recorded.
+10/24/2018 06:11:46 PM Completed test2.csv
+10/24/2018 06:11:46 PM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 06:11:46 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 06:11:46 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 06:11:46 PM Opened sine.csv
+10/24/2018 06:11:46 PM ECG Voltage extremes found.
+10/24/2018 06:11:46 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 06:11:46 PM Heart Rate successfully calculated.
+10/24/2018 06:11:46 PM Number of beats counted.
+10/24/2018 06:11:46 PM Heart beat times recorded.
+10/24/2018 06:11:46 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/24/2018 06:11:46 PM Completed sine.csv
+10/24/2018 06:11:46 PM Opened test1.csv
+10/24/2018 06:11:46 PM Time or voltage data is empty
+10/24/2018 06:11:46 PM Opened test0.csv
+10/24/2018 06:11:46 PM test0.csv not found
+10/24/2018 06:11:46 PM Heart Rate successfully calculated.
+10/24/2018 06:11:46 PM Number of beats counted.
+10/24/2018 06:11:46 PM Heart beat times recorded.
+10/24/2018 06:15:21 PM Opened test2.csv
+10/24/2018 06:15:21 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 06:15:21 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 06:15:21 PM ECG Voltage extremes found.
+10/24/2018 06:15:21 PM Heart Rate successfully calculated.
+10/24/2018 06:15:21 PM Number of beats counted.
+10/24/2018 06:15:21 PM Heart beat times recorded.
+10/24/2018 06:15:21 PM Completed test2.csv
+10/24/2018 06:15:21 PM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/24/2018 06:15:21 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 06:15:21 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/24/2018 06:15:21 PM Opened sine.csv
+10/24/2018 06:15:21 PM ECG Voltage extremes found.
+10/24/2018 06:15:21 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/24/2018 06:15:21 PM Heart Rate successfully calculated.
+10/24/2018 06:15:21 PM Number of beats counted.
+10/24/2018 06:15:21 PM Heart beat times recorded.
+10/24/2018 06:15:21 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/24/2018 06:15:21 PM Completed sine.csv
+10/24/2018 06:15:21 PM Opened test1.csv
+10/24/2018 06:15:21 PM Time or voltage data is empty
+10/24/2018 06:15:21 PM Opened test0.csv
+10/24/2018 06:15:21 PM test0.csv not found
+10/24/2018 06:15:21 PM Heart Rate successfully calculated.
+10/24/2018 06:15:21 PM Number of beats counted.
+10/24/2018 06:15:21 PM Heart beat times recorded.
+10/25/2018 02:11:35 PM Opened ./test_data/test_data2.csv
+10/25/2018 02:11:35 PM ECG Voltage extremes found.
+10/25/2018 02:11:35 PM Heart Rate successfully calculated.
+10/25/2018 02:11:35 PM Number of beats counted.
+10/25/2018 02:11:35 PM Heart beat times recorded.
+10/25/2018 02:11:35 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:11:35 PM update_title_pos
+10/25/2018 02:11:35 PM update_title_pos
+10/25/2018 02:11:35 PM Completed ./test_data/test_data2.csv
+10/25/2018 02:18:41 PM Opened ./test_data/test_data9.csv
+10/25/2018 02:18:41 PM ECG Voltage extremes found.
+10/25/2018 02:18:41 PM Heart Rate successfully calculated.
+10/25/2018 02:18:41 PM Number of beats counted.
+10/25/2018 02:18:41 PM Heart beat times recorded.
+10/25/2018 02:18:41 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:18:41 PM update_title_pos
+10/25/2018 02:18:42 PM update_title_pos
+10/25/2018 02:18:42 PM Completed ./test_data/test_data9.csv
+10/25/2018 02:22:45 PM Opened ./test_data/test_data9.csv
+10/25/2018 02:22:45 PM ECG Voltage extremes found.
+10/25/2018 02:22:45 PM Heart Rate successfully calculated.
+10/25/2018 02:22:45 PM Number of beats counted.
+10/25/2018 02:22:45 PM Heart beat times recorded.
+10/25/2018 02:22:45 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:22:45 PM update_title_pos
+10/25/2018 02:22:45 PM update_title_pos
+10/25/2018 02:22:46 PM Completed ./test_data/test_data9.csv
+10/25/2018 02:23:08 PM Opened ./test_data/test_data1.csv
+10/25/2018 02:23:08 PM ECG Voltage extremes found.
+10/25/2018 02:23:08 PM Heart Rate successfully calculated.
+10/25/2018 02:23:08 PM Number of beats counted.
+10/25/2018 02:23:08 PM Heart beat times recorded.
+10/25/2018 02:23:08 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:23:08 PM update_title_pos
+10/25/2018 02:23:08 PM update_title_pos
+10/25/2018 02:23:08 PM Completed ./test_data/test_data1.csv
+10/25/2018 02:23:54 PM Opened ./test_data/test_data1.csv
+10/25/2018 02:23:54 PM ECG Voltage extremes found.
+10/25/2018 02:23:54 PM Heart Rate successfully calculated.
+10/25/2018 02:23:54 PM Number of beats counted.
+10/25/2018 02:23:54 PM Heart beat times recorded.
+10/25/2018 02:23:54 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:23:54 PM update_title_pos
+10/25/2018 02:23:54 PM update_title_pos
+10/25/2018 02:23:54 PM Completed ./test_data/test_data1.csv
+10/25/2018 02:25:12 PM Opened ./test_data/test_data1.csv
+10/25/2018 02:25:12 PM ECG Voltage extremes found.
+10/25/2018 02:25:12 PM Heart Rate successfully calculated.
+10/25/2018 02:25:12 PM Number of beats counted.
+10/25/2018 02:25:12 PM Heart beat times recorded.
+10/25/2018 02:25:13 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:25:13 PM update_title_pos
+10/25/2018 02:25:13 PM update_title_pos
+10/25/2018 02:25:13 PM Completed ./test_data/test_data1.csv
+10/25/2018 02:25:31 PM Opened ./test_data/test_data9.csv
+10/25/2018 02:25:31 PM ECG Voltage extremes found.
+10/25/2018 02:25:32 PM Heart Rate successfully calculated.
+10/25/2018 02:25:32 PM Number of beats counted.
+10/25/2018 02:25:32 PM Heart beat times recorded.
+10/25/2018 02:25:32 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:25:32 PM update_title_pos
+10/25/2018 02:25:32 PM update_title_pos
+10/25/2018 02:25:32 PM Completed ./test_data/test_data9.csv
+10/25/2018 02:26:01 PM Opened ./test_data/test_data9.csv
+10/25/2018 02:26:01 PM ECG Voltage extremes found.
+10/25/2018 02:26:01 PM Heart Rate successfully calculated.
+10/25/2018 02:26:01 PM Number of beats counted.
+10/25/2018 02:26:01 PM Heart beat times recorded.
+10/25/2018 02:26:01 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:26:01 PM update_title_pos
+10/25/2018 02:26:01 PM update_title_pos
+10/25/2018 02:26:01 PM Completed ./test_data/test_data9.csv
+10/25/2018 02:47:31 PM Opened ./test_data/test_data9.csv
+10/25/2018 02:47:31 PM ECG Voltage extremes found.
+10/25/2018 02:47:31 PM Heart Rate successfully calculated.
+10/25/2018 02:47:31 PM Number of beats counted.
+10/25/2018 02:47:31 PM Heart beat times recorded.
+10/25/2018 02:47:31 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:47:31 PM update_title_pos
+10/25/2018 02:47:31 PM update_title_pos
+10/25/2018 02:47:31 PM Completed ./test_data/test_data9.csv
+10/25/2018 02:48:11 PM Opened ./test_data/test_data9.csv
+10/25/2018 02:48:11 PM ECG Voltage extremes found.
+10/25/2018 02:48:11 PM Heart Rate successfully calculated.
+10/25/2018 02:48:11 PM Number of beats counted.
+10/25/2018 02:48:11 PM Heart beat times recorded.
+10/25/2018 02:48:11 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:48:11 PM update_title_pos
+10/25/2018 02:48:11 PM update_title_pos
+10/25/2018 02:48:11 PM Completed ./test_data/test_data9.csv
+10/25/2018 02:48:48 PM Opened ./test_data/test_data1.csv
+10/25/2018 02:48:48 PM ECG Voltage extremes found.
+10/25/2018 02:48:49 PM Heart Rate successfully calculated.
+10/25/2018 02:48:49 PM Number of beats counted.
+10/25/2018 02:48:49 PM Heart beat times recorded.
+10/25/2018 02:48:49 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:48:49 PM update_title_pos
+10/25/2018 02:48:49 PM update_title_pos
+10/25/2018 02:48:49 PM Warning: Mean heart rate detected to be lower than 40 bpm.
+10/25/2018 02:48:49 PM Completed ./test_data/test_data1.csv
+10/25/2018 02:49:08 PM Opened ./test_data/test_data1.csv
+10/25/2018 02:49:08 PM ECG Voltage extremes found.
+10/25/2018 02:49:08 PM Heart Rate successfully calculated.
+10/25/2018 02:49:08 PM Number of beats counted.
+10/25/2018 02:49:08 PM Heart beat times recorded.
+10/25/2018 02:49:08 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:49:08 PM update_title_pos
+10/25/2018 02:49:08 PM update_title_pos
+10/25/2018 02:49:08 PM Warning: Mean heart rate detected to be lower than 40 bpm.
+10/25/2018 02:49:08 PM Completed ./test_data/test_data1.csv
+10/25/2018 02:50:07 PM Opened ./test_data/test_data1.csv
+10/25/2018 02:50:07 PM ECG Voltage extremes found.
+10/25/2018 02:50:07 PM Heart Rate successfully calculated.
+10/25/2018 02:50:07 PM Number of beats counted.
+10/25/2018 02:50:07 PM Heart beat times recorded.
+10/25/2018 02:50:07 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:50:07 PM update_title_pos
+10/25/2018 02:50:07 PM update_title_pos
+10/25/2018 02:50:07 PM Completed ./test_data/test_data1.csv
+10/25/2018 02:50:19 PM Opened ./test_data/test_data9.csv
+10/25/2018 02:50:19 PM ECG Voltage extremes found.
+10/25/2018 02:50:19 PM Heart Rate successfully calculated.
+10/25/2018 02:50:19 PM Number of beats counted.
+10/25/2018 02:50:19 PM Heart beat times recorded.
+10/25/2018 02:50:19 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:50:19 PM update_title_pos
+10/25/2018 02:50:19 PM update_title_pos
+10/25/2018 02:50:20 PM Completed ./test_data/test_data9.csv
+10/25/2018 02:52:48 PM Opened ./test_data/test_data1.csv
+10/25/2018 02:52:48 PM ECG Voltage extremes found.
+10/25/2018 02:52:48 PM Heart Rate successfully calculated.
+10/25/2018 02:52:48 PM Number of beats counted.
+10/25/2018 02:52:48 PM Heart beat times recorded.
+10/25/2018 02:52:48 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:52:48 PM update_title_pos
+10/25/2018 02:52:48 PM update_title_pos
+10/25/2018 02:52:48 PM Completed ./test_data/test_data1.csv
+10/25/2018 02:52:56 PM Opened ./test_data/test_data2.csv
+10/25/2018 02:52:56 PM ECG Voltage extremes found.
+10/25/2018 02:52:56 PM Heart Rate successfully calculated.
+10/25/2018 02:52:56 PM Number of beats counted.
+10/25/2018 02:52:56 PM Heart beat times recorded.
+10/25/2018 02:52:57 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:52:57 PM update_title_pos
+10/25/2018 02:52:57 PM update_title_pos
+10/25/2018 02:52:57 PM Completed ./test_data/test_data2.csv
+10/25/2018 02:53:06 PM Opened ./test_data/test_data3.csv
+10/25/2018 02:53:06 PM ECG Voltage extremes found.
+10/25/2018 02:53:06 PM Heart Rate successfully calculated.
+10/25/2018 02:53:06 PM Number of beats counted.
+10/25/2018 02:53:06 PM Heart beat times recorded.
+10/25/2018 02:53:06 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:53:06 PM update_title_pos
+10/25/2018 02:53:06 PM update_title_pos
+10/25/2018 02:53:06 PM Completed ./test_data/test_data3.csv
+10/25/2018 02:53:15 PM Opened ./test_data/test_data4.csv
+10/25/2018 02:53:15 PM ECG Voltage extremes found.
+10/25/2018 02:53:15 PM Heart Rate successfully calculated.
+10/25/2018 02:53:15 PM Number of beats counted.
+10/25/2018 02:53:15 PM Heart beat times recorded.
+10/25/2018 02:53:16 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:53:16 PM update_title_pos
+10/25/2018 02:53:16 PM update_title_pos
+10/25/2018 02:53:16 PM Completed ./test_data/test_data4.csv
+10/25/2018 02:53:29 PM Opened ./test_data/test_data5.csv
+10/25/2018 02:53:29 PM ECG Voltage extremes found.
+10/25/2018 02:53:29 PM Heart Rate successfully calculated.
+10/25/2018 02:53:29 PM Number of beats counted.
+10/25/2018 02:53:29 PM Heart beat times recorded.
+10/25/2018 02:53:29 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:53:29 PM update_title_pos
+10/25/2018 02:53:29 PM update_title_pos
+10/25/2018 02:53:29 PM Completed ./test_data/test_data5.csv
+10/25/2018 02:53:39 PM Opened ./test_data/test_data6.csv
+10/25/2018 02:53:39 PM ECG Voltage extremes found.
+10/25/2018 02:53:39 PM Heart Rate successfully calculated.
+10/25/2018 02:53:39 PM Number of beats counted.
+10/25/2018 02:53:39 PM Heart beat times recorded.
+10/25/2018 02:53:39 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:53:39 PM update_title_pos
+10/25/2018 02:53:39 PM update_title_pos
+10/25/2018 02:53:40 PM Completed ./test_data/test_data6.csv
+10/25/2018 02:53:48 PM Opened ./test_data/test_data7.csv
+10/25/2018 02:53:48 PM ECG Voltage extremes found.
+10/25/2018 02:53:48 PM Heart Rate successfully calculated.
+10/25/2018 02:53:48 PM Number of beats counted.
+10/25/2018 02:53:48 PM Heart beat times recorded.
+10/25/2018 02:53:48 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:53:48 PM update_title_pos
+10/25/2018 02:53:48 PM update_title_pos
+10/25/2018 02:53:48 PM Completed ./test_data/test_data7.csv
+10/25/2018 02:53:57 PM Opened ./test_data/test_data8.csv
+10/25/2018 02:53:57 PM ECG Voltage extremes found.
+10/25/2018 02:53:57 PM Heart Rate successfully calculated.
+10/25/2018 02:53:57 PM Number of beats counted.
+10/25/2018 02:53:57 PM Heart beat times recorded.
+10/25/2018 02:53:58 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:53:58 PM update_title_pos
+10/25/2018 02:53:58 PM update_title_pos
+10/25/2018 02:53:58 PM Completed ./test_data/test_data8.csv
+10/25/2018 02:54:10 PM Opened ./test_data/test_data9.csv
+10/25/2018 02:54:10 PM ECG Voltage extremes found.
+10/25/2018 02:54:10 PM Heart Rate successfully calculated.
+10/25/2018 02:54:10 PM Number of beats counted.
+10/25/2018 02:54:10 PM Heart beat times recorded.
+10/25/2018 02:54:10 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:54:10 PM update_title_pos
+10/25/2018 02:54:10 PM update_title_pos
+10/25/2018 02:54:11 PM Completed ./test_data/test_data9.csv
+10/25/2018 02:54:19 PM Opened ./test_data/test_data10.csv
+10/25/2018 02:54:19 PM ECG Voltage extremes found.
+10/25/2018 02:54:19 PM Heart Rate successfully calculated.
+10/25/2018 02:54:19 PM Number of beats counted.
+10/25/2018 02:54:19 PM Heart beat times recorded.
+10/25/2018 02:54:19 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:54:19 PM update_title_pos
+10/25/2018 02:54:19 PM update_title_pos
+10/25/2018 02:54:19 PM Completed ./test_data/test_data10.csv
+10/25/2018 02:54:32 PM Opened ./test_data/test_data11.csv
+10/25/2018 02:54:33 PM ECG Voltage extremes found.
+10/25/2018 02:54:33 PM Heart Rate successfully calculated.
+10/25/2018 02:54:33 PM Number of beats counted.
+10/25/2018 02:54:33 PM Heart beat times recorded.
+10/25/2018 02:54:33 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:54:33 PM update_title_pos
+10/25/2018 02:54:33 PM update_title_pos
+10/25/2018 02:54:33 PM Completed ./test_data/test_data11.csv
+10/25/2018 02:58:18 PM Opened ./test_data/test_data12.csv
+10/25/2018 02:58:18 PM ECG Voltage extremes found.
+10/25/2018 02:58:18 PM Heart Rate successfully calculated.
+10/25/2018 02:58:18 PM Number of beats counted.
+10/25/2018 02:58:18 PM Heart beat times recorded.
+10/25/2018 02:58:18 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:58:18 PM update_title_pos
+10/25/2018 02:58:18 PM update_title_pos
+10/25/2018 02:58:18 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 02:58:18 PM Completed ./test_data/test_data12.csv
+10/25/2018 02:59:04 PM Opened ./test_data/test_data13.csv
+10/25/2018 02:59:04 PM ECG Voltage extremes found.
+10/25/2018 02:59:04 PM Heart Rate successfully calculated.
+10/25/2018 02:59:04 PM Number of beats counted.
+10/25/2018 02:59:04 PM Heart beat times recorded.
+10/25/2018 02:59:05 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:59:05 PM update_title_pos
+10/25/2018 02:59:05 PM update_title_pos
+10/25/2018 02:59:05 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 02:59:05 PM Completed ./test_data/test_data13.csv
+10/25/2018 02:59:26 PM Opened ./test_data/test_data14.csv
+10/25/2018 02:59:26 PM ECG Voltage extremes found.
+10/25/2018 02:59:26 PM Heart Rate successfully calculated.
+10/25/2018 02:59:26 PM Number of beats counted.
+10/25/2018 02:59:26 PM Heart beat times recorded.
+10/25/2018 02:59:26 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:59:26 PM update_title_pos
+10/25/2018 02:59:26 PM update_title_pos
+10/25/2018 02:59:26 PM Completed ./test_data/test_data14.csv
+10/25/2018 02:59:35 PM Opened ./test_data/test_data15.csv
+10/25/2018 02:59:35 PM ECG Voltage extremes found.
+10/25/2018 02:59:35 PM Heart Rate successfully calculated.
+10/25/2018 02:59:35 PM Number of beats counted.
+10/25/2018 02:59:35 PM Heart beat times recorded.
+10/25/2018 02:59:35 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:59:35 PM update_title_pos
+10/25/2018 02:59:35 PM update_title_pos
+10/25/2018 02:59:35 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 02:59:35 PM Completed ./test_data/test_data15.csv
+10/25/2018 02:59:43 PM Opened ./test_data/test_data16.csv
+10/25/2018 02:59:43 PM ECG Voltage extremes found.
+10/25/2018 02:59:43 PM Heart Rate successfully calculated.
+10/25/2018 02:59:43 PM Number of beats counted.
+10/25/2018 02:59:43 PM Heart beat times recorded.
+10/25/2018 02:59:43 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 02:59:43 PM update_title_pos
+10/25/2018 02:59:43 PM update_title_pos
+10/25/2018 02:59:43 PM Completed ./test_data/test_data16.csv
+10/25/2018 03:00:11 PM Opened ./test_data/test_data17.csv
+10/25/2018 03:00:11 PM ECG Voltage extremes found.
+10/25/2018 03:00:11 PM Heart Rate successfully calculated.
+10/25/2018 03:00:11 PM Number of beats counted.
+10/25/2018 03:00:11 PM Heart beat times recorded.
+10/25/2018 03:00:11 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:00:11 PM update_title_pos
+10/25/2018 03:00:11 PM update_title_pos
+10/25/2018 03:00:11 PM Completed ./test_data/test_data17.csv
+10/25/2018 03:00:20 PM Opened ./test_data/test_data18.csv
+10/25/2018 03:00:20 PM ECG Voltage extremes found.
+10/25/2018 03:00:20 PM Heart Rate successfully calculated.
+10/25/2018 03:00:20 PM Number of beats counted.
+10/25/2018 03:00:20 PM Heart beat times recorded.
+10/25/2018 03:00:20 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:00:20 PM update_title_pos
+10/25/2018 03:00:20 PM update_title_pos
+10/25/2018 03:00:20 PM Completed ./test_data/test_data18.csv
+10/25/2018 03:00:32 PM Opened ./test_data/test_data19.csv
+10/25/2018 03:00:32 PM ECG Voltage extremes found.
+10/25/2018 03:00:32 PM Heart Rate successfully calculated.
+10/25/2018 03:00:32 PM Number of beats counted.
+10/25/2018 03:00:32 PM Heart beat times recorded.
+10/25/2018 03:00:32 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:00:32 PM update_title_pos
+10/25/2018 03:00:32 PM update_title_pos
+10/25/2018 03:00:32 PM Completed ./test_data/test_data19.csv
+10/25/2018 03:04:10 PM Opened ./test_data/test_data20.csv
+10/25/2018 03:04:10 PM ECG Voltage extremes found.
+10/25/2018 03:04:10 PM Heart Rate successfully calculated.
+10/25/2018 03:04:10 PM Number of beats counted.
+10/25/2018 03:04:10 PM Heart beat times recorded.
+10/25/2018 03:04:10 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:04:10 PM update_title_pos
+10/25/2018 03:04:10 PM update_title_pos
+10/25/2018 03:04:10 PM Completed ./test_data/test_data20.csv
+10/25/2018 03:07:55 PM Opened ./test_data/test_data20.csv
+10/25/2018 03:07:55 PM ECG Voltage extremes found.
+10/25/2018 03:07:55 PM Heart Rate successfully calculated.
+10/25/2018 03:07:55 PM Number of beats counted.
+10/25/2018 03:07:55 PM Heart beat times recorded.
+10/25/2018 03:07:55 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:07:55 PM update_title_pos
+10/25/2018 03:07:55 PM update_title_pos
+10/25/2018 03:07:55 PM Completed ./test_data/test_data20.csv
+10/25/2018 03:09:00 PM Opened ./test_data/test_data20.csv
+10/25/2018 03:09:00 PM ECG Voltage extremes found.
+10/25/2018 03:09:00 PM Heart Rate successfully calculated.
+10/25/2018 03:09:00 PM Number of beats counted.
+10/25/2018 03:09:00 PM Heart beat times recorded.
+10/25/2018 03:09:00 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:09:00 PM update_title_pos
+10/25/2018 03:09:00 PM update_title_pos
+10/25/2018 03:09:00 PM Completed ./test_data/test_data20.csv
+10/25/2018 03:09:37 PM Opened ./test_data/test_data9.csv
+10/25/2018 03:09:37 PM ECG Voltage extremes found.
+10/25/2018 03:09:37 PM Heart Rate successfully calculated.
+10/25/2018 03:09:37 PM Number of beats counted.
+10/25/2018 03:09:37 PM Heart beat times recorded.
+10/25/2018 03:09:37 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:09:37 PM update_title_pos
+10/25/2018 03:09:38 PM update_title_pos
+10/25/2018 03:09:38 PM Completed ./test_data/test_data9.csv
+10/25/2018 03:10:30 PM Opened ./test_data/test_data9.csv
+10/25/2018 03:10:30 PM ECG Voltage extremes found.
+10/25/2018 03:10:30 PM Heart Rate successfully calculated.
+10/25/2018 03:10:30 PM Number of beats counted.
+10/25/2018 03:10:30 PM Heart beat times recorded.
+10/25/2018 03:10:31 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:10:31 PM update_title_pos
+10/25/2018 03:10:31 PM update_title_pos
+10/25/2018 03:10:31 PM Completed ./test_data/test_data9.csv
+10/25/2018 03:11:23 PM Opened ./test_data/test_data1.csv
+10/25/2018 03:11:23 PM ECG Voltage extremes found.
+10/25/2018 03:11:23 PM Heart Rate successfully calculated.
+10/25/2018 03:11:23 PM Number of beats counted.
+10/25/2018 03:11:23 PM Heart beat times recorded.
+10/25/2018 03:11:23 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:11:23 PM update_title_pos
+10/25/2018 03:11:23 PM update_title_pos
+10/25/2018 03:11:23 PM Completed ./test_data/test_data1.csv
+10/25/2018 03:14:06 PM Opened ./test_data/test_data19.csv
+10/25/2018 03:14:06 PM ECG Voltage extremes found.
+10/25/2018 03:14:06 PM Heart Rate successfully calculated.
+10/25/2018 03:14:06 PM Number of beats counted.
+10/25/2018 03:14:06 PM Heart beat times recorded.
+10/25/2018 03:14:06 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:14:06 PM update_title_pos
+10/25/2018 03:14:06 PM update_title_pos
+10/25/2018 03:14:06 PM Completed ./test_data/test_data19.csv
+10/25/2018 03:14:23 PM Opened ./test_data/test_data21.csv
+10/25/2018 03:14:23 PM ECG Voltage extremes found.
+10/25/2018 03:14:23 PM Heart Rate successfully calculated.
+10/25/2018 03:14:23 PM Number of beats counted.
+10/25/2018 03:14:23 PM Heart beat times recorded.
+10/25/2018 03:14:23 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:14:23 PM update_title_pos
+10/25/2018 03:14:23 PM update_title_pos
+10/25/2018 03:14:23 PM Completed ./test_data/test_data21.csv
+10/25/2018 03:14:38 PM Opened ./test_data/test_data22.csv
+10/25/2018 03:14:38 PM ECG Voltage extremes found.
+10/25/2018 03:14:38 PM Heart Rate successfully calculated.
+10/25/2018 03:14:38 PM Number of beats counted.
+10/25/2018 03:14:38 PM Heart beat times recorded.
+10/25/2018 03:14:38 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:14:38 PM update_title_pos
+10/25/2018 03:14:39 PM update_title_pos
+10/25/2018 03:14:39 PM Completed ./test_data/test_data22.csv
+10/25/2018 03:14:48 PM Opened ./test_data/test_data23.csv
+10/25/2018 03:14:48 PM ECG Voltage extremes found.
+10/25/2018 03:14:48 PM Heart Rate successfully calculated.
+10/25/2018 03:14:48 PM Number of beats counted.
+10/25/2018 03:14:48 PM Heart beat times recorded.
+10/25/2018 03:14:48 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:14:48 PM update_title_pos
+10/25/2018 03:14:48 PM update_title_pos
+10/25/2018 03:14:48 PM Warning: Mean heart rate detected to be lower than 40 bpm.
+10/25/2018 03:14:48 PM Completed ./test_data/test_data23.csv
+10/25/2018 03:15:07 PM Opened ./test_data/test_data24.csv
+10/25/2018 03:15:07 PM ECG Voltage extremes found.
+10/25/2018 03:15:07 PM Heart Rate successfully calculated.
+10/25/2018 03:15:07 PM Number of beats counted.
+10/25/2018 03:15:07 PM Heart beat times recorded.
+10/25/2018 03:15:07 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:15:07 PM update_title_pos
+10/25/2018 03:15:07 PM update_title_pos
+10/25/2018 03:15:07 PM Completed ./test_data/test_data24.csv
+10/25/2018 03:15:24 PM Opened ./test_data/test_data25.csv
+10/25/2018 03:15:24 PM ECG Voltage extremes found.
+10/25/2018 03:15:24 PM Heart Rate successfully calculated.
+10/25/2018 03:15:24 PM Number of beats counted.
+10/25/2018 03:15:24 PM Heart beat times recorded.
+10/25/2018 03:15:24 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:15:24 PM update_title_pos
+10/25/2018 03:15:24 PM update_title_pos
+10/25/2018 03:15:24 PM Completed ./test_data/test_data25.csv
+10/25/2018 03:15:33 PM Opened ./test_data/test_data26.csv
+10/25/2018 03:15:34 PM ECG Voltage extremes found.
+10/25/2018 03:15:34 PM Heart Rate successfully calculated.
+10/25/2018 03:15:34 PM Number of beats counted.
+10/25/2018 03:15:34 PM Heart beat times recorded.
+10/25/2018 03:15:34 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:15:34 PM update_title_pos
+10/25/2018 03:15:34 PM update_title_pos
+10/25/2018 03:15:34 PM Warning: Mean heart rate detected to be lower than 40 bpm.
+10/25/2018 03:15:34 PM Completed ./test_data/test_data26.csv
+10/25/2018 03:15:44 PM Opened ./test_data/test_data27.csv
+10/25/2018 03:15:44 PM ECG Voltage extremes found.
+10/25/2018 03:15:44 PM Heart Rate successfully calculated.
+10/25/2018 03:15:44 PM Number of beats counted.
+10/25/2018 03:15:44 PM Heart beat times recorded.
+10/25/2018 03:15:44 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:15:44 PM update_title_pos
+10/25/2018 03:15:44 PM update_title_pos
+10/25/2018 03:15:44 PM Completed ./test_data/test_data27.csv
+10/25/2018 03:15:56 PM Opened ./test_data/test_data28.csv
+10/25/2018 03:15:56 PM ECG Voltage extremes found.
+10/25/2018 03:19:27 PM Opened ./test_data/test_data29.csv
+10/25/2018 03:19:27 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/25/2018 03:19:27 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/25/2018 03:19:27 PM ECG Voltage extremes found.
+10/25/2018 03:19:27 PM Heart Rate successfully calculated.
+10/25/2018 03:19:27 PM Number of beats counted.
+10/25/2018 03:19:27 PM Heart beat times recorded.
+10/25/2018 03:19:27 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:19:27 PM update_title_pos
+10/25/2018 03:19:27 PM update_title_pos
+10/25/2018 03:19:28 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 03:19:28 PM Completed ./test_data/test_data29.csv
+10/25/2018 03:19:37 PM Opened ./test_data/test_data30.csv
+10/25/2018 03:19:37 PM Dataset contains non-real or non-numerical values. Interpolating databad data
+10/25/2018 03:19:37 PM Dataset contains non-real or non-numerical values. Interpolating databad data
+10/25/2018 03:19:37 PM ECG Voltage extremes found.
+10/25/2018 03:19:37 PM Heart Rate successfully calculated.
+10/25/2018 03:19:37 PM Number of beats counted.
+10/25/2018 03:19:37 PM Heart beat times recorded.
+10/25/2018 03:19:37 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:19:37 PM update_title_pos
+10/25/2018 03:19:38 PM update_title_pos
+10/25/2018 03:19:38 PM Completed ./test_data/test_data30.csv
+10/25/2018 03:19:51 PM Opened ./test_data/test_data31.csv
+10/25/2018 03:19:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/25/2018 03:19:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/25/2018 03:19:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/25/2018 03:19:51 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/25/2018 03:19:51 PM ECG Voltage extremes found.
+10/25/2018 03:19:51 PM Heart Rate successfully calculated.
+10/25/2018 03:19:51 PM Number of beats counted.
+10/25/2018 03:19:51 PM Heart beat times recorded.
+10/25/2018 03:19:51 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:19:51 PM update_title_pos
+10/25/2018 03:19:51 PM update_title_pos
+10/25/2018 03:19:51 PM Completed ./test_data/test_data31.csv
+10/25/2018 03:19:59 PM Opened ./test_data/test_data32.csv
+10/25/2018 03:19:59 PM ECG Voltage extremes found.
+10/25/2018 03:19:59 PM Warning: Voltage is outside of ECG range (>300 mV)
+10/25/2018 03:19:59 PM Heart Rate successfully calculated.
+10/25/2018 03:19:59 PM Number of beats counted.
+10/25/2018 03:19:59 PM Heart beat times recorded.
+10/25/2018 03:19:59 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:19:59 PM update_title_pos
+10/25/2018 03:19:59 PM update_title_pos
+10/25/2018 03:19:59 PM Completed ./test_data/test_data32.csv
+10/25/2018 03:20:18 PM Opened ./test_data/test_data28.csv
+10/25/2018 03:20:18 PM ECG Voltage extremes found.
+10/25/2018 03:20:55 PM Opened ./test_data/test_data28.csv
+10/25/2018 03:20:56 PM ECG Voltage extremes found.
+10/25/2018 03:25:23 PM Opened sine.csv
+10/25/2018 03:25:23 PM ECG Voltage extremes found.
+10/25/2018 03:25:23 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 03:25:23 PM Heart Rate successfully calculated.
+10/25/2018 03:25:23 PM Number of beats counted.
+10/25/2018 03:25:23 PM Heart beat times recorded.
+10/25/2018 03:25:23 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:25:23 PM update_title_pos
+10/25/2018 03:25:23 PM update_title_pos
+10/25/2018 03:25:23 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 03:25:23 PM Completed sine.csv
+10/25/2018 03:26:41 PM Opened ./test_data/test_data28.csv
+10/25/2018 03:26:41 PM ECG Voltage extremes found.
+10/25/2018 03:49:45 PM Opened test2.csv
+10/25/2018 03:49:45 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/25/2018 03:49:45 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/25/2018 03:49:45 PM ECG Voltage extremes found.
+10/25/2018 03:49:45 PM Heart Rate successfully calculated.
+10/25/2018 03:49:45 PM Number of beats counted.
+10/25/2018 03:49:45 PM Heart beat times recorded.
+10/25/2018 03:49:45 PM update_title_pos
+10/25/2018 03:49:45 PM findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Users/kaseykwong/bme590hrm/.venv/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+10/25/2018 03:49:48 PM Completed test2.csv
+10/25/2018 03:49:48 PM Dataset contains non-real or non-numerical values. Interpolating dataFIVE
+10/25/2018 03:49:48 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/25/2018 03:49:48 PM Dataset contains non-real or non-numerical values. Interpolating data
+10/25/2018 03:49:48 PM Opened sine.csv
+10/25/2018 03:49:48 PM ECG Voltage extremes found.
+10/25/2018 03:49:48 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 03:49:48 PM Heart Rate successfully calculated.
+10/25/2018 03:49:48 PM Number of beats counted.
+10/25/2018 03:49:48 PM Heart beat times recorded.
+10/25/2018 03:49:48 PM update_title_pos
+10/25/2018 03:49:50 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 03:49:50 PM Completed sine.csv
+10/25/2018 03:49:50 PM Opened test1.csv
+10/25/2018 03:49:50 PM Time or voltage data is empty
+10/25/2018 03:49:50 PM Opened test0.csv
+10/25/2018 03:49:50 PM test0.csv not found
+10/25/2018 03:49:50 PM Heart Rate successfully calculated.
+10/25/2018 03:49:50 PM Number of beats counted.
+10/25/2018 03:49:50 PM Heart beat times recorded.
+10/25/2018 04:02:45 PM Opened test2.csv
+10/25/2018 04:02:45 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:02:45 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:02:45 PM ECG Voltage extremes found.
+10/25/2018 04:02:45 PM Heart Rate successfully calculated.
+10/25/2018 04:02:45 PM Number of beats counted.
+10/25/2018 04:02:45 PM Heart beat times recorded.
+10/25/2018 04:02:45 PM Completed test2.csv
+10/25/2018 04:02:45 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:02:46 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:02:46 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:02:46 PM Opened sine.csv
+10/25/2018 04:02:46 PM ECG Voltage extremes found.
+10/25/2018 04:02:46 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:02:46 PM Heart Rate successfully calculated.
+10/25/2018 04:02:46 PM Number of beats counted.
+10/25/2018 04:02:46 PM Heart beat times recorded.
+10/25/2018 04:02:46 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:02:46 PM Completed sine.csv
+10/25/2018 04:02:46 PM Opened test1.csv
+10/25/2018 04:02:46 PM Time or voltage data is empty
+10/25/2018 04:02:46 PM Opened test0.csv
+10/25/2018 04:02:46 PM test0.csv not found
+10/25/2018 04:02:46 PM Heart Rate successfully calculated.
+10/25/2018 04:02:46 PM Number of beats counted.
+10/25/2018 04:02:46 PM Heart beat times recorded.
+10/25/2018 04:07:54 PM Opened test2.csv
+10/25/2018 04:07:54 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:07:54 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:07:54 PM ECG Voltage extremes found.
+10/25/2018 04:07:54 PM Heart Rate successfully calculated.
+10/25/2018 04:07:54 PM Number of beats counted.
+10/25/2018 04:07:54 PM Heart beat times recorded.
+10/25/2018 04:07:54 PM Completed test2.csv
+10/25/2018 04:09:04 PM Opened test2.csv
+10/25/2018 04:09:04 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:09:04 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:09:04 PM ECG Voltage extremes found.
+10/25/2018 04:09:04 PM Heart Rate successfully calculated.
+10/25/2018 04:09:04 PM Number of beats counted.
+10/25/2018 04:09:04 PM Heart beat times recorded.
+10/25/2018 04:09:04 PM Completed test2.csv
+10/25/2018 04:09:04 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:09:04 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:09:04 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:09:04 PM Opened sine.csv
+10/25/2018 04:09:04 PM ECG Voltage extremes found.
+10/25/2018 04:09:04 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:09:04 PM Heart Rate successfully calculated.
+10/25/2018 04:09:04 PM Number of beats counted.
+10/25/2018 04:09:04 PM Heart beat times recorded.
+10/25/2018 04:09:04 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:09:04 PM Completed sine.csv
+10/25/2018 04:09:04 PM Opened test1.csv
+10/25/2018 04:09:04 PM Time or voltage data is empty
+10/25/2018 04:09:04 PM Opened test0.csv
+10/25/2018 04:09:04 PM test0.csv not found
+10/25/2018 04:09:04 PM Heart Rate successfully calculated.
+10/25/2018 04:09:04 PM Number of beats counted.
+10/25/2018 04:09:04 PM Heart beat times recorded.
+10/25/2018 04:09:45 PM Opened test2.csv
+10/25/2018 04:09:45 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:09:45 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:09:45 PM ECG Voltage extremes found.
+10/25/2018 04:09:45 PM Heart Rate successfully calculated.
+10/25/2018 04:09:45 PM Number of beats counted.
+10/25/2018 04:09:45 PM Heart beat times recorded.
+10/25/2018 04:09:45 PM Completed test2.csv
+10/25/2018 04:09:46 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:09:46 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:09:46 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:09:46 PM Opened sine.csv
+10/25/2018 04:09:46 PM ECG Voltage extremes found.
+10/25/2018 04:09:46 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:09:46 PM Heart Rate successfully calculated.
+10/25/2018 04:09:46 PM Number of beats counted.
+10/25/2018 04:09:46 PM Heart beat times recorded.
+10/25/2018 04:09:46 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:09:46 PM Completed sine.csv
+10/25/2018 04:09:46 PM Opened test1.csv
+10/25/2018 04:09:46 PM Time or voltage data is empty
+10/25/2018 04:09:46 PM Opened test0.csv
+10/25/2018 04:09:46 PM test0.csv not found
+10/25/2018 04:09:46 PM Heart Rate successfully calculated.
+10/25/2018 04:09:46 PM Number of beats counted.
+10/25/2018 04:09:46 PM Heart beat times recorded.
+10/25/2018 04:10:34 PM Opened test2.csv
+10/25/2018 04:10:34 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:10:34 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:10:34 PM ECG Voltage extremes found.
+10/25/2018 04:10:34 PM Heart Rate successfully calculated.
+10/25/2018 04:10:34 PM Number of beats counted.
+10/25/2018 04:10:34 PM Heart beat times recorded.
+10/25/2018 04:10:34 PM Completed test2.csv
+10/25/2018 04:10:34 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:10:34 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:10:34 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:10:34 PM Opened sine.csv
+10/25/2018 04:10:34 PM ECG Voltage extremes found.
+10/25/2018 04:10:34 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:10:34 PM Heart Rate successfully calculated.
+10/25/2018 04:10:34 PM Number of beats counted.
+10/25/2018 04:10:34 PM Heart beat times recorded.
+10/25/2018 04:10:34 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:10:34 PM Completed sine.csv
+10/25/2018 04:10:34 PM Opened test1.csv
+10/25/2018 04:10:34 PM Time or voltage data is empty
+10/25/2018 04:10:34 PM Opened test0.csv
+10/25/2018 04:10:34 PM test0.csv not found
+10/25/2018 04:10:34 PM Heart Rate successfully calculated.
+10/25/2018 04:10:34 PM Number of beats counted.
+10/25/2018 04:10:34 PM Heart beat times recorded.
+10/25/2018 04:11:02 PM Opened test2.csv
+10/25/2018 04:11:02 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:11:02 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:11:02 PM ECG Voltage extremes found.
+10/25/2018 04:11:02 PM Heart Rate successfully calculated.
+10/25/2018 04:11:02 PM Number of beats counted.
+10/25/2018 04:11:02 PM Heart beat times recorded.
+10/25/2018 04:11:02 PM Completed test2.csv
+10/25/2018 04:11:02 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:11:02 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:11:02 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:11:02 PM Opened sine.csv
+10/25/2018 04:11:02 PM ECG Voltage extremes found.
+10/25/2018 04:11:02 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:11:02 PM Heart Rate successfully calculated.
+10/25/2018 04:11:02 PM Number of beats counted.
+10/25/2018 04:11:02 PM Heart beat times recorded.
+10/25/2018 04:11:02 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:11:02 PM Completed sine.csv
+10/25/2018 04:11:02 PM Opened test1.csv
+10/25/2018 04:11:02 PM Time or voltage data is empty
+10/25/2018 04:11:02 PM Opened test0.csv
+10/25/2018 04:11:02 PM test0.csv not found
+10/25/2018 04:11:02 PM Heart Rate successfully calculated.
+10/25/2018 04:11:02 PM Number of beats counted.
+10/25/2018 04:11:02 PM Heart beat times recorded.
+10/25/2018 04:12:19 PM Opened test2.csv
+10/25/2018 04:12:19 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:19 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:19 PM ECG Voltage extremes found.
+10/25/2018 04:12:19 PM Heart Rate successfully calculated.
+10/25/2018 04:12:19 PM Number of beats counted.
+10/25/2018 04:12:19 PM Heart beat times recorded.
+10/25/2018 04:12:19 PM Completed test2.csv
+10/25/2018 04:12:19 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:19 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:19 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:19 PM Opened sine.csv
+10/25/2018 04:12:19 PM ECG Voltage extremes found.
+10/25/2018 04:12:19 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:12:19 PM Heart Rate successfully calculated.
+10/25/2018 04:12:19 PM Number of beats counted.
+10/25/2018 04:12:19 PM Heart beat times recorded.
+10/25/2018 04:12:19 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:12:19 PM Completed sine.csv
+10/25/2018 04:12:19 PM Opened test1.csv
+10/25/2018 04:12:19 PM Time or voltage data is empty
+10/25/2018 04:12:19 PM Opened test0.csv
+10/25/2018 04:12:19 PM test0.csv not found
+10/25/2018 04:12:19 PM Heart Rate successfully calculated.
+10/25/2018 04:12:19 PM Number of beats counted.
+10/25/2018 04:12:19 PM Heart beat times recorded.
+10/25/2018 04:12:30 PM Opened test2.csv
+10/25/2018 04:12:30 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:30 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:30 PM ECG Voltage extremes found.
+10/25/2018 04:12:30 PM Heart Rate successfully calculated.
+10/25/2018 04:12:30 PM Number of beats counted.
+10/25/2018 04:12:30 PM Heart beat times recorded.
+10/25/2018 04:12:30 PM Completed test2.csv
+10/25/2018 04:12:30 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:30 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:30 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:30 PM Opened sine.csv
+10/25/2018 04:12:30 PM ECG Voltage extremes found.
+10/25/2018 04:12:30 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:12:30 PM Heart Rate successfully calculated.
+10/25/2018 04:12:30 PM Number of beats counted.
+10/25/2018 04:12:30 PM Heart beat times recorded.
+10/25/2018 04:12:30 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:12:30 PM Completed sine.csv
+10/25/2018 04:12:30 PM Opened test1.csv
+10/25/2018 04:12:30 PM Time or voltage data is empty
+10/25/2018 04:12:30 PM Opened test0.csv
+10/25/2018 04:12:30 PM test0.csv not found
+10/25/2018 04:12:30 PM Heart Rate successfully calculated.
+10/25/2018 04:12:30 PM Number of beats counted.
+10/25/2018 04:12:30 PM Heart beat times recorded.
+10/25/2018 04:12:38 PM Opened test2.csv
+10/25/2018 04:12:38 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:38 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:38 PM ECG Voltage extremes found.
+10/25/2018 04:12:38 PM Heart Rate successfully calculated.
+10/25/2018 04:12:38 PM Number of beats counted.
+10/25/2018 04:12:38 PM Heart beat times recorded.
+10/25/2018 04:12:38 PM Completed test2.csv
+10/25/2018 04:12:38 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:38 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:38 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:12:38 PM Opened sine.csv
+10/25/2018 04:12:38 PM ECG Voltage extremes found.
+10/25/2018 04:12:38 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:12:38 PM Heart Rate successfully calculated.
+10/25/2018 04:12:38 PM Number of beats counted.
+10/25/2018 04:12:38 PM Heart beat times recorded.
+10/25/2018 04:12:38 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:12:38 PM Completed sine.csv
+10/25/2018 04:12:38 PM Opened test1.csv
+10/25/2018 04:12:38 PM Time or voltage data is empty
+10/25/2018 04:12:38 PM Opened test0.csv
+10/25/2018 04:12:38 PM test0.csv not found
+10/25/2018 04:12:38 PM Heart Rate successfully calculated.
+10/25/2018 04:12:38 PM Number of beats counted.
+10/25/2018 04:12:38 PM Heart beat times recorded.
+10/25/2018 04:16:53 PM Opened test2.csv
+10/25/2018 04:16:53 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:16:53 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:16:53 PM ECG Voltage extremes found.
+10/25/2018 04:16:53 PM Heart Rate successfully calculated.
+10/25/2018 04:16:53 PM Number of beats counted.
+10/25/2018 04:16:53 PM Heart beat times recorded.
+10/25/2018 04:16:53 PM Completed test2.csv
+10/25/2018 04:20:38 PM Opened test2.csv
+10/25/2018 04:20:39 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:20:39 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:20:39 PM ECG Voltage extremes found.
+10/25/2018 04:20:39 PM Heart Rate successfully calculated.
+10/25/2018 04:20:39 PM Number of beats counted.
+10/25/2018 04:20:39 PM Heart beat times recorded.
+10/25/2018 04:20:39 PM Completed test2.csv
+10/25/2018 04:20:39 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:20:39 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:20:39 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:20:39 PM Opened sine.csv
+10/25/2018 04:20:39 PM ECG Voltage extremes found.
+10/25/2018 04:20:39 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:20:39 PM Heart Rate successfully calculated.
+10/25/2018 04:20:39 PM Number of beats counted.
+10/25/2018 04:20:39 PM Heart beat times recorded.
+10/25/2018 04:20:39 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:20:39 PM Completed sine.csv
+10/25/2018 04:20:39 PM Opened test1.csv
+10/25/2018 04:20:39 PM Time or voltage data is empty
+10/25/2018 04:20:39 PM Opened test0.csv
+10/25/2018 04:20:39 PM test0.csv not found
+10/25/2018 04:20:39 PM Heart Rate successfully calculated.
+10/25/2018 04:20:39 PM Number of beats counted.
+10/25/2018 04:20:39 PM Heart beat times recorded.
+10/25/2018 04:21:10 PM Opened test2.csv
+10/25/2018 04:21:10 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:10 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:10 PM ECG Voltage extremes found.
+10/25/2018 04:21:10 PM Heart Rate successfully calculated.
+10/25/2018 04:21:10 PM Number of beats counted.
+10/25/2018 04:21:10 PM Heart beat times recorded.
+10/25/2018 04:21:10 PM Completed test2.csv
+10/25/2018 04:21:10 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:10 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:10 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:10 PM Opened sine.csv
+10/25/2018 04:21:10 PM ECG Voltage extremes found.
+10/25/2018 04:21:10 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:21:10 PM Heart Rate successfully calculated.
+10/25/2018 04:21:10 PM Number of beats counted.
+10/25/2018 04:21:10 PM Heart beat times recorded.
+10/25/2018 04:21:10 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:21:10 PM Completed sine.csv
+10/25/2018 04:21:10 PM Opened test1.csv
+10/25/2018 04:21:10 PM Time or voltage data is empty
+10/25/2018 04:21:10 PM Opened test0.csv
+10/25/2018 04:21:11 PM test0.csv not found
+10/25/2018 04:21:11 PM Heart Rate successfully calculated.
+10/25/2018 04:21:11 PM Number of beats counted.
+10/25/2018 04:21:11 PM Heart beat times recorded.
+10/25/2018 04:21:23 PM Opened test2.csv
+10/25/2018 04:21:23 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:23 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:23 PM ECG Voltage extremes found.
+10/25/2018 04:21:23 PM Heart Rate successfully calculated.
+10/25/2018 04:21:23 PM Number of beats counted.
+10/25/2018 04:21:23 PM Heart beat times recorded.
+10/25/2018 04:21:23 PM Completed test2.csv
+10/25/2018 04:21:24 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:24 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:24 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:24 PM Opened sine.csv
+10/25/2018 04:21:24 PM ECG Voltage extremes found.
+10/25/2018 04:21:24 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:21:24 PM Heart Rate successfully calculated.
+10/25/2018 04:21:24 PM Number of beats counted.
+10/25/2018 04:21:24 PM Heart beat times recorded.
+10/25/2018 04:21:24 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:21:24 PM Completed sine.csv
+10/25/2018 04:21:24 PM Opened test1.csv
+10/25/2018 04:21:24 PM Time or voltage data is empty
+10/25/2018 04:21:24 PM Opened test0.csv
+10/25/2018 04:21:24 PM test0.csv not found
+10/25/2018 04:21:24 PM Heart Rate successfully calculated.
+10/25/2018 04:21:24 PM Number of beats counted.
+10/25/2018 04:21:24 PM Heart beat times recorded.
+10/25/2018 04:21:38 PM Opened test2.csv
+10/25/2018 04:21:38 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:38 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:38 PM ECG Voltage extremes found.
+10/25/2018 04:21:38 PM Heart Rate successfully calculated.
+10/25/2018 04:21:38 PM Number of beats counted.
+10/25/2018 04:21:38 PM Heart beat times recorded.
+10/25/2018 04:21:38 PM Completed test2.csv
+10/25/2018 04:21:39 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:39 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:39 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:39 PM Opened sine.csv
+10/25/2018 04:21:39 PM ECG Voltage extremes found.
+10/25/2018 04:21:39 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:21:39 PM Heart Rate successfully calculated.
+10/25/2018 04:21:39 PM Number of beats counted.
+10/25/2018 04:21:39 PM Heart beat times recorded.
+10/25/2018 04:21:39 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:21:39 PM Completed sine.csv
+10/25/2018 04:21:39 PM Opened test1.csv
+10/25/2018 04:21:39 PM Time or voltage data is empty
+10/25/2018 04:21:39 PM Opened test0.csv
+10/25/2018 04:21:39 PM test0.csv not found
+10/25/2018 04:21:39 PM Heart Rate successfully calculated.
+10/25/2018 04:21:39 PM Number of beats counted.
+10/25/2018 04:21:39 PM Heart beat times recorded.
+10/25/2018 04:21:52 PM Opened test2.csv
+10/25/2018 04:21:52 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:52 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:52 PM ECG Voltage extremes found.
+10/25/2018 04:21:52 PM Heart Rate successfully calculated.
+10/25/2018 04:21:52 PM Number of beats counted.
+10/25/2018 04:21:52 PM Heart beat times recorded.
+10/25/2018 04:21:52 PM Completed test2.csv
+10/25/2018 04:21:52 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:52 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:52 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:21:52 PM Opened sine.csv
+10/25/2018 04:21:52 PM ECG Voltage extremes found.
+10/25/2018 04:21:52 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:21:52 PM Heart Rate successfully calculated.
+10/25/2018 04:21:52 PM Number of beats counted.
+10/25/2018 04:21:52 PM Heart beat times recorded.
+10/25/2018 04:21:52 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:21:52 PM Completed sine.csv
+10/25/2018 04:21:52 PM Opened test1.csv
+10/25/2018 04:21:52 PM Time or voltage data is empty
+10/25/2018 04:21:52 PM Opened test0.csv
+10/25/2018 04:21:52 PM test0.csv not found
+10/25/2018 04:21:52 PM Heart Rate successfully calculated.
+10/25/2018 04:21:52 PM Number of beats counted.
+10/25/2018 04:21:52 PM Heart beat times recorded.
+10/25/2018 04:24:01 PM Opened test2.csv
+10/25/2018 04:24:01 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:24:01 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:24:01 PM ECG Voltage extremes found.
+10/25/2018 04:24:01 PM Heart Rate successfully calculated.
+10/25/2018 04:24:01 PM Number of beats counted.
+10/25/2018 04:24:01 PM Heart beat times recorded.
+10/25/2018 04:24:01 PM Completed test2.csv
+10/25/2018 04:24:54 PM Opened test2.csv
+10/25/2018 04:24:54 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:24:54 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:24:54 PM ECG Voltage extremes found.
+10/25/2018 04:24:54 PM Heart Rate successfully calculated.
+10/25/2018 04:24:54 PM Number of beats counted.
+10/25/2018 04:24:54 PM Heart beat times recorded.
+10/25/2018 04:24:54 PM Completed test2.csv
+10/25/2018 04:24:54 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:24:54 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:24:54 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:24:54 PM Opened sine.csv
+10/25/2018 04:24:54 PM ECG Voltage extremes found.
+10/25/2018 04:24:54 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:24:54 PM Heart Rate successfully calculated.
+10/25/2018 04:24:54 PM Number of beats counted.
+10/25/2018 04:24:54 PM Heart beat times recorded.
+10/25/2018 04:24:54 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:24:54 PM Completed sine.csv
+10/25/2018 04:24:54 PM Opened test1.csv
+10/25/2018 04:24:54 PM Time or voltage data is empty
+10/25/2018 04:24:54 PM Opened test0.csv
+10/25/2018 04:24:54 PM test0.csv not found
+10/25/2018 04:24:54 PM Heart Rate successfully calculated.
+10/25/2018 04:24:54 PM Number of beats counted.
+10/25/2018 04:24:54 PM Heart beat times recorded.
+10/25/2018 04:25:29 PM Opened test2.csv
+10/25/2018 04:25:29 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:25:29 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:25:29 PM ECG Voltage extremes found.
+10/25/2018 04:25:29 PM Heart Rate successfully calculated.
+10/25/2018 04:25:29 PM Number of beats counted.
+10/25/2018 04:25:29 PM Heart beat times recorded.
+10/25/2018 04:25:29 PM Completed test2.csv
+10/25/2018 04:25:29 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:25:29 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:25:29 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:25:29 PM Opened sine.csv
+10/25/2018 04:25:29 PM ECG Voltage extremes found.
+10/25/2018 04:25:29 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:25:29 PM Heart Rate successfully calculated.
+10/25/2018 04:25:29 PM Number of beats counted.
+10/25/2018 04:25:29 PM Heart beat times recorded.
+10/25/2018 04:25:29 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:25:29 PM Completed sine.csv
+10/25/2018 04:25:29 PM Opened test1.csv
+10/25/2018 04:25:29 PM Time or voltage data is empty
+10/25/2018 04:25:29 PM Opened test0.csv
+10/25/2018 04:25:29 PM test0.csv not found
+10/25/2018 04:25:29 PM Heart Rate successfully calculated.
+10/25/2018 04:25:29 PM Number of beats counted.
+10/25/2018 04:25:29 PM Heart beat times recorded.
+10/25/2018 04:26:48 PM Opened test2.csv
+10/25/2018 04:26:48 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:26:48 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:26:48 PM ECG Voltage extremes found.
+10/25/2018 04:26:48 PM Heart Rate successfully calculated.
+10/25/2018 04:26:48 PM Number of beats counted.
+10/25/2018 04:26:48 PM Heart beat times recorded.
+10/25/2018 04:26:48 PM Completed test2.csv
+10/25/2018 04:26:48 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:26:48 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:26:48 PM Dataset contains non-real or non-numerical values.
+10/25/2018 04:26:48 PM Opened sine.csv
+10/25/2018 04:26:48 PM ECG Voltage extremes found.
+10/25/2018 04:26:48 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/25/2018 04:26:48 PM Heart Rate successfully calculated.
+10/25/2018 04:26:48 PM Number of beats counted.
+10/25/2018 04:26:48 PM Heart beat times recorded.
+10/25/2018 04:26:48 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/25/2018 04:26:48 PM Completed sine.csv
+10/25/2018 04:26:48 PM Opened test1.csv
+10/25/2018 04:26:48 PM Time or voltage data is empty
+10/25/2018 04:26:48 PM Opened test0.csv
+10/25/2018 04:26:48 PM test0.csv not found
+10/25/2018 04:26:48 PM Heart Rate successfully calculated.
+10/25/2018 04:26:48 PM Number of beats counted.
+10/25/2018 04:26:48 PM Heart beat times recorded.
