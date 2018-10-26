@@ -65,16 +65,16 @@ def write_json(filename, info):
     return
 
 
-def main():
-    try:
-        xtime, xvoltage = read_data('./test1.csv')
-    except IOError:
-        print('main: File not Found')
-        return
-    print(xtime)
-    print(xvoltage)
+# def main():
+#     try:
+#         xtime, xvoltage = read_data('./test1.csv')
+#     except IOError:
+#         print('main: File not Found')
+#         return
+#     print(xtime)
+#     print(xvoltage)
+#
+#     print(is_number('FIVE'))
 
-    print(is_number('FIVE'))
-
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()

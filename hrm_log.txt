@@ -1438,3 +1438,253 @@
 10/25/2018 04:26:48 PM Heart Rate successfully calculated.
 10/25/2018 04:26:48 PM Number of beats counted.
 10/25/2018 04:26:48 PM Heart beat times recorded.
+10/26/2018 10:00:47 AM Opened test2.csv
+10/26/2018 10:00:48 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:00:48 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:00:48 AM ECG Voltage extremes found.
+10/26/2018 10:00:48 AM Heart Rate successfully calculated.
+10/26/2018 10:00:48 AM Number of beats counted.
+10/26/2018 10:00:48 AM Heart beat times recorded.
+10/26/2018 10:00:48 AM Completed test2.csv
+10/26/2018 10:00:48 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:00:48 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:00:48 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:00:48 AM Opened sine.csv
+10/26/2018 10:00:48 AM ECG Voltage extremes found.
+10/26/2018 10:00:48 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/26/2018 10:00:48 AM Heart Rate successfully calculated.
+10/26/2018 10:00:48 AM Number of beats counted.
+10/26/2018 10:00:48 AM Heart beat times recorded.
+10/26/2018 10:00:48 AM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/26/2018 10:00:49 AM Completed sine.csv
+10/26/2018 10:00:49 AM Opened test1.csv
+10/26/2018 10:00:49 AM Time or voltage data is empty
+10/26/2018 10:00:49 AM Opened test0.csv
+10/26/2018 10:00:49 AM test0.csv not found
+10/26/2018 10:00:49 AM Heart Rate successfully calculated.
+10/26/2018 10:00:49 AM Number of beats counted.
+10/26/2018 10:00:49 AM Heart beat times recorded.
+10/26/2018 10:04:24 AM Opened test2.csv
+10/26/2018 10:04:24 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:04:24 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:04:24 AM ECG Voltage extremes found.
+10/26/2018 10:04:24 AM Heart Rate successfully calculated.
+10/26/2018 10:04:24 AM Number of beats counted.
+10/26/2018 10:04:24 AM Heart beat times recorded.
+10/26/2018 10:04:24 AM Completed test2.csv
+10/26/2018 10:04:25 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:04:25 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:04:25 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:04:25 AM Opened sine.csv
+10/26/2018 10:04:25 AM ECG Voltage extremes found.
+10/26/2018 10:04:25 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/26/2018 10:04:25 AM Heart Rate successfully calculated.
+10/26/2018 10:04:25 AM Number of beats counted.
+10/26/2018 10:04:25 AM Heart beat times recorded.
+10/26/2018 10:04:25 AM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/26/2018 10:04:25 AM Completed sine.csv
+10/26/2018 10:04:25 AM Opened test1.csv
+10/26/2018 10:04:25 AM Time or voltage data is empty
+10/26/2018 10:04:25 AM Opened test0.csv
+10/26/2018 10:04:25 AM test0.csv not found
+10/26/2018 10:04:25 AM Heart Rate successfully calculated.
+10/26/2018 10:04:25 AM Number of beats counted.
+10/26/2018 10:04:25 AM Heart beat times recorded.
+10/26/2018 10:08:23 AM Opened test2.csv
+10/26/2018 10:08:23 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:08:23 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:08:23 AM ECG Voltage extremes found.
+10/26/2018 10:08:23 AM Heart Rate successfully calculated.
+10/26/2018 10:08:23 AM Number of beats counted.
+10/26/2018 10:08:23 AM Heart beat times recorded.
+10/26/2018 10:08:23 AM Completed test2.csv
+10/26/2018 10:08:24 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:08:24 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:08:24 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:08:24 AM Opened sine.csv
+10/26/2018 10:08:24 AM ECG Voltage extremes found.
+10/26/2018 10:08:24 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/26/2018 10:08:24 AM Heart Rate successfully calculated.
+10/26/2018 10:08:24 AM Number of beats counted.
+10/26/2018 10:08:24 AM Heart beat times recorded.
+10/26/2018 10:08:24 AM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/26/2018 10:08:24 AM Completed sine.csv
+10/26/2018 10:08:24 AM Opened test1.csv
+10/26/2018 10:08:24 AM Time or voltage data is empty
+10/26/2018 10:08:25 AM Opened test0.csv
+10/26/2018 10:08:25 AM test0.csv not found
+10/26/2018 10:08:25 AM Heart Rate successfully calculated.
+10/26/2018 10:08:25 AM Number of beats counted.
+10/26/2018 10:08:25 AM Heart beat times recorded.
+10/26/2018 10:10:01 AM Opened test2.csv
+10/26/2018 10:10:01 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:10:01 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:10:01 AM ECG Voltage extremes found.
+10/26/2018 10:10:01 AM Heart Rate successfully calculated.
+10/26/2018 10:10:01 AM Number of beats counted.
+10/26/2018 10:10:01 AM Heart beat times recorded.
+10/26/2018 10:10:01 AM Completed test2.csv
+10/26/2018 10:10:02 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:10:02 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:10:02 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:10:02 AM Opened sine.csv
+10/26/2018 10:10:02 AM ECG Voltage extremes found.
+10/26/2018 10:10:02 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/26/2018 10:10:02 AM Heart Rate successfully calculated.
+10/26/2018 10:10:02 AM Number of beats counted.
+10/26/2018 10:10:02 AM Heart beat times recorded.
+10/26/2018 10:10:02 AM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/26/2018 10:10:02 AM Completed sine.csv
+10/26/2018 10:10:02 AM Opened test1.csv
+10/26/2018 10:10:02 AM Time or voltage data is empty
+10/26/2018 10:10:02 AM Opened test0.csv
+10/26/2018 10:10:02 AM test0.csv not found
+10/26/2018 10:10:03 AM Heart Rate successfully calculated.
+10/26/2018 10:10:03 AM Number of beats counted.
+10/26/2018 10:10:03 AM Heart beat times recorded.
+10/26/2018 10:17:22 AM Opened test2.csv
+10/26/2018 10:17:22 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:17:22 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:17:22 AM ECG Voltage extremes found.
+10/26/2018 10:17:22 AM Heart Rate successfully calculated.
+10/26/2018 10:17:22 AM Number of beats counted.
+10/26/2018 10:17:22 AM Heart beat times recorded.
+10/26/2018 10:17:22 AM Completed test2.csv
+10/26/2018 10:17:22 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:17:23 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:17:23 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:17:23 AM Opened sine.csv
+10/26/2018 10:17:23 AM ECG Voltage extremes found.
+10/26/2018 10:17:23 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/26/2018 10:17:23 AM Heart Rate successfully calculated.
+10/26/2018 10:17:23 AM Number of beats counted.
+10/26/2018 10:17:23 AM Heart beat times recorded.
+10/26/2018 10:17:23 AM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/26/2018 10:17:23 AM Completed sine.csv
+10/26/2018 10:17:23 AM Opened test1.csv
+10/26/2018 10:17:23 AM Time or voltage data is empty
+10/26/2018 10:17:23 AM Opened test0.csv
+10/26/2018 10:17:23 AM test0.csv not found
+10/26/2018 10:17:23 AM Heart Rate successfully calculated.
+10/26/2018 10:17:23 AM Number of beats counted.
+10/26/2018 10:17:23 AM Heart beat times recorded.
+10/26/2018 10:17:23 AM Opened ./test_data/test_data2.csv
+10/26/2018 10:17:23 AM ECG Voltage extremes found.
+10/26/2018 10:17:23 AM Heart Rate successfully calculated.
+10/26/2018 10:17:23 AM Number of beats counted.
+10/26/2018 10:17:23 AM Heart beat times recorded.
+10/26/2018 10:17:23 AM Completed ./test_data/test_data2.csv
+10/26/2018 10:17:23 AM Completed ./test_data/test_data2.csv
+10/26/2018 10:18:49 AM Opened test2.csv
+10/26/2018 10:18:49 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:18:49 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:18:49 AM ECG Voltage extremes found.
+10/26/2018 10:18:49 AM Heart Rate successfully calculated.
+10/26/2018 10:18:49 AM Number of beats counted.
+10/26/2018 10:18:49 AM Heart beat times recorded.
+10/26/2018 10:18:49 AM Completed test2.csv
+10/26/2018 10:18:49 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:18:49 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:18:49 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:18:50 AM Opened sine.csv
+10/26/2018 10:18:50 AM ECG Voltage extremes found.
+10/26/2018 10:18:50 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/26/2018 10:18:50 AM Heart Rate successfully calculated.
+10/26/2018 10:18:50 AM Number of beats counted.
+10/26/2018 10:18:50 AM Heart beat times recorded.
+10/26/2018 10:18:50 AM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/26/2018 10:18:50 AM Completed sine.csv
+10/26/2018 10:18:50 AM Opened test1.csv
+10/26/2018 10:18:50 AM Time or voltage data is empty
+10/26/2018 10:18:50 AM Opened test0.csv
+10/26/2018 10:18:50 AM test0.csv not found
+10/26/2018 10:18:50 AM Heart Rate successfully calculated.
+10/26/2018 10:18:50 AM Number of beats counted.
+10/26/2018 10:18:50 AM Heart beat times recorded.
+10/26/2018 10:18:50 AM Opened ./test_data/test_data2.csv
+10/26/2018 10:18:50 AM ECG Voltage extremes found.
+10/26/2018 10:18:50 AM Heart Rate successfully calculated.
+10/26/2018 10:18:50 AM Number of beats counted.
+10/26/2018 10:18:50 AM Heart beat times recorded.
+10/26/2018 10:18:50 AM Completed ./test_data/test_data2.csv
+10/26/2018 10:18:50 AM Completed ./test_data/test_data2.csv
+10/26/2018 10:21:54 AM Opened test2.csv
+10/26/2018 10:21:54 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:21:54 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:21:54 AM ECG Voltage extremes found.
+10/26/2018 10:21:54 AM Heart Rate successfully calculated.
+10/26/2018 10:21:54 AM Number of beats counted.
+10/26/2018 10:21:54 AM Heart beat times recorded.
+10/26/2018 10:21:54 AM Completed test2.csv
+10/26/2018 10:21:55 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:21:55 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:21:55 AM Dataset contains non-real or non-numerical values.
+10/26/2018 10:21:55 AM Opened sine.csv
+10/26/2018 10:21:55 AM ECG Voltage extremes found.
+10/26/2018 10:21:55 AM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/26/2018 10:21:55 AM Heart Rate successfully calculated.
+10/26/2018 10:21:55 AM Number of beats counted.
+10/26/2018 10:21:55 AM Heart beat times recorded.
+10/26/2018 10:21:55 AM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/26/2018 10:21:55 AM Completed sine.csv
+10/26/2018 10:21:55 AM Opened ./test_data/test_data9.csv
+10/26/2018 10:21:55 AM ECG Voltage extremes found.
+10/26/2018 10:21:55 AM Heart Rate successfully calculated.
+10/26/2018 10:21:55 AM Number of beats counted.
+10/26/2018 10:21:55 AM Heart beat times recorded.
+10/26/2018 10:21:55 AM Completed ./test_data/test_data9.csv
+10/26/2018 10:21:55 AM Opened test1.csv
+10/26/2018 10:21:55 AM Time or voltage data is empty
+10/26/2018 10:21:55 AM Opened test0.csv
+10/26/2018 10:21:55 AM test0.csv not found
+10/26/2018 10:21:55 AM Heart Rate successfully calculated.
+10/26/2018 10:21:55 AM Number of beats counted.
+10/26/2018 10:21:55 AM Heart beat times recorded.
+10/26/2018 10:21:55 AM Opened ./test_data/test_data2.csv
+10/26/2018 10:21:55 AM ECG Voltage extremes found.
+10/26/2018 10:21:55 AM Heart Rate successfully calculated.
+10/26/2018 10:21:55 AM Number of beats counted.
+10/26/2018 10:21:55 AM Heart beat times recorded.
+10/26/2018 10:21:55 AM Completed ./test_data/test_data2.csv
+10/26/2018 10:21:56 AM Completed ./test_data/test_data2.csv
+10/26/2018 12:46:12 PM Opened test0.csv
+10/26/2018 12:46:12 PM test0.csv not found
+10/26/2018 12:48:44 PM Opened test2.csv
+10/26/2018 12:48:45 PM Dataset contains non-real or non-numerical values.
+10/26/2018 12:48:45 PM Dataset contains non-real or non-numerical values.
+10/26/2018 12:48:45 PM ECG Voltage extremes found.
+10/26/2018 12:48:45 PM Heart Rate successfully calculated.
+10/26/2018 12:48:45 PM Number of beats counted.
+10/26/2018 12:48:45 PM Heart beat times recorded.
+10/26/2018 12:48:45 PM Completed test2.csv
+10/26/2018 12:48:44 PM Dataset contains non-real or non-numerical values.
+10/26/2018 12:48:44 PM Dataset contains non-real or non-numerical values.
+10/26/2018 12:48:44 PM Dataset contains non-real or non-numerical values.
+10/26/2018 12:48:44 PM Opened sine.csv
+10/26/2018 12:48:44 PM ECG Voltage extremes found.
+10/26/2018 12:48:44 PM Duration is less than 5 seconds, calculation accuracy may be affected.
+10/26/2018 12:48:44 PM Heart Rate successfully calculated.
+10/26/2018 12:48:44 PM Number of beats counted.
+10/26/2018 12:48:44 PM Heart beat times recorded.
+10/26/2018 12:48:44 PM Warning: Mean heart rate detected to be higher than 180 bpm.
+10/26/2018 12:48:44 PM Completed sine.csv
+10/26/2018 12:48:44 PM Opened ./test_data/test_data9.csv
+10/26/2018 12:48:44 PM ECG Voltage extremes found.
+10/26/2018 12:48:44 PM Heart Rate successfully calculated.
+10/26/2018 12:48:44 PM Number of beats counted.
+10/26/2018 12:48:44 PM Heart beat times recorded.
+10/26/2018 12:48:44 PM Completed ./test_data/test_data9.csv
+10/26/2018 12:48:44 PM Opened test1.csv
+10/26/2018 12:48:44 PM Time or voltage data is empty
+10/26/2018 12:48:44 PM Opened test0.csv
+10/26/2018 12:48:44 PM test0.csv not found
+10/26/2018 12:48:44 PM Heart Rate successfully calculated.
+10/26/2018 12:48:44 PM Number of beats counted.
+10/26/2018 12:48:44 PM Heart beat times recorded.
+10/26/2018 12:48:44 PM Opened ./test_data/test_data2.csv
+10/26/2018 12:48:44 PM ECG Voltage extremes found.
+10/26/2018 12:48:45 PM Heart Rate successfully calculated.
+10/26/2018 12:48:45 PM Number of beats counted.
+10/26/2018 12:48:45 PM Heart beat times recorded.
+10/26/2018 12:48:45 PM Completed ./test_data/test_data2.csv
+10/26/2018 12:48:45 PM Completed ./test_data/test_data2.csv

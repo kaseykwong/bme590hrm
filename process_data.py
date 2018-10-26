@@ -37,10 +37,10 @@ class ECG_data:
             logging.error(self.filename + ' not found')
         self.time, self.voltage = read_data(self.filename)
 
-        if len(self.time) != len(self.voltage):
-            logging.error('Time and Voltage data arrays are not the '
-                          'same length')
-            raise RuntimeError
+        # if len(self.time) != len(self.voltage):
+        #     logging.error('Time and Voltage data arrays are not the '
+        #                   'same length')
+        #     raise RuntimeError
 
         if self.time == [] or self.voltage == []:
             logging.error('Time or voltage data is empty')
@@ -92,10 +92,10 @@ class ECG_data:
         :return:
         """
 
-        if self.time == [] or self.voltage == []:
-            logging.warning("Time and/or Voltage of " + self.filename +
-                            " is empty")
-            return
+        # if self.time == [] or self.voltage == []:
+        #     logging.warning("Time and/or Voltage of " + self.filename +
+        #                     " is empty")
+        #     return
 
         voltage = pd.Series(data=self.voltage)
         fs = 1/(self.time[1] - self.time[0])
@@ -221,7 +221,7 @@ def main():
     :return: instance of ECG_data
     """
     try:
-        x = ECG_data('./test_data/test_data1.csv')
+        x = ECG_data('test0.csv')
     except IOError:
         print('main: File not Found')
         return
@@ -229,14 +229,14 @@ def main():
         print('Error in data found. Refer to log')
         return
 
-    print(x.time)
-    print(x.voltage)
-    print(x.duration)
-    print(x.maxV)
-    print(x.minV)
-    print(x.beattimes)
-    print(x.hrm)
-    print(x.numbeats)
+    # print(x.time)
+    # print(x.voltage)
+    # print(x.duration)
+    # print(x.maxV)
+    # print(x.minV)
+    # print(x.beattimes)
+    # print(x.hrm)
+    # print(x.numbeats)
     return x
 
 if __name__ == "__main__":
